@@ -22,11 +22,11 @@
             <geo:Locatie>
             	<geo:naam>Noordzeekustzone_vogel</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-fb878e86-6781-4154-a1b2-dfaa9cb8fbcc-xx">
-                     <basisgeo:id>fb878e86-6781-4154-a1b2-dfaa9cb8fbcc</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-fb878e86-6781-4154-a1b2-dfaa9cb9fbcd-xx">
+                     <basisgeo:id>fb878e86-6781-4154-a1b2-dfaa9cb9fbcd</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
-                                          gml:id="id-fb878e86-6781-4154-a1b2-dfaa9cb8fbcc">
+                                          gml:id="id-fb878e86-6781-4154-a1b2-dfaa9cb9fbcd">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>

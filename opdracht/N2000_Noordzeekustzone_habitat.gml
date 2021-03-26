@@ -16,8 +16,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/mnre1053/2021/N2000_Noordzeekustzone_habitat</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/mnre1053/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-01</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-01</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
             	<geo:naam>Noordzeekustzone_habitat</geo:naam>

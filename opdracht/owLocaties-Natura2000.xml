@@ -18,8 +18,20 @@
          <sl:leveringsId>abc-20190221-0801</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
+            <sl:objectType>Gebiedengroep</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1053.gebiedengroep.2019000001</l:identificatie>
+               <l:noemer>Noordzeekustzone-habitatrichtlijngebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1053.gebied.2019000001"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
@@ -29,6 +41,17 @@
                	<l:GeometrieRef xlink:href="fb878e86-6781-4154-a1b2-dfaa9cb8fbcd"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1053.gebiedengroep.2019000002</l:identificatie>
+               <l:noemer>Noordzeekustzone-vogelrichtlijngebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1053.gebied.2019000002"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -44,6 +67,17 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <l:Gebiedengroep>   
+               <l:identificatie>nl.imow-mnre1053.gebiedengroep.2019000003</l:identificatie>
+               <l:noemer>Natura2000-gebied-Noordzeekustzone</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1053.gebied.2019000003"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-mnre1053.gebied.2019000003</l:identificatie>
             	<l:noemer>Natura2000-gebied-Noordzeekustzone</l:noemer>
@@ -53,7 +87,14 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-
-
+<!--      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>LND6030.A</l:identificatie>
+               <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+               <l:geldigOp>2021-01-01</l:geldigOp>
+            </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>-->
    </sl:standBestand>
 </ow-dc:owBestand>

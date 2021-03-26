@@ -19,10 +19,8 @@
          <sl:objectTypen>
             <sl:objectType>Regeltekst</sl:objectType>
             <sl:objectType>RegelVoorIedereen</sl:objectType>
-            <sl:objectType>Omgevingswaarderegel</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
-      
       <sl:stand>
          <ow-dc:owObject>
          	<r:Regeltekst wId="mnre1053_1__chp_Besluit__art_1__para_1">
@@ -39,11 +37,11 @@
                   <r:RegeltekstRef xlink:href="nl.imow-mnre1053.regeltekst.2019000001"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-               	<l:LocatieRef xlink:href="nl.imow-mnre1053.gebiedsaanwijzing.2019000001"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1053.gebied.2019000001"/>
                </r:locatieaanduiding>
             	<r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1053.gebiedsaanwijzing.2019000001"/>
-               </r:gebiedsaanwijzing>
+               </r:gebiedsaanwijzing>                   
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -63,7 +61,7 @@
    					<r:RegeltekstRef xlink:href="nl.imow-mnre1053.regeltekst.2019000002"/>
    				</r:artikelOfLid>
    				<r:locatieaanduiding>
-   					<l:LocatieRef xlink:href="nl.imow-mnre1053.gebiedsaanwijzing.2019000002"/>
+   					<l:LocatieRef xlink:href="nl.imow-mnre1053.gebied.2019000002"/>
    				</r:locatieaanduiding>
    				<r:gebiedsaanwijzing>
    					<ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1053.gebiedsaanwijzing.2019000002"/>
@@ -87,7 +85,7 @@
    					<r:RegeltekstRef xlink:href="nl.imow-mnre1053.regeltekst.2019000003"/>
    				</r:artikelOfLid>
    				<r:locatieaanduiding>
-   					<l:LocatieRef xlink:href="nl.imow-mnre1053.gebiedsaanwijzing.2019000003"/>
+   					<l:LocatieRef xlink:href="nl.imow-mnre1053.gebied.2019000003"/>
    				</r:locatieaanduiding>
    				<r:gebiedsaanwijzing>
    					<ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1053.gebiedsaanwijzing.2019000003"/>
@@ -95,7 +93,5 @@
    			</r:RegelVoorIedereen>
    		</ow-dc:owObject>
    	</sl:stand>
-
-
    </sl:standBestand>
 </ow-dc:owBestand>

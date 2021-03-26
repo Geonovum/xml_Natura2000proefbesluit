@@ -29,7 +29,7 @@
             	<ga:naam>Noordzeekustzone–habitatrichtlijngebied</ga:naam>
             	<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Habitatrichtlijngebied</ga:groep>
                <ga:locatieaanduiding>
-               	<l:LocatieRef xlink:href="nl.imow-mnre1053.gebied.2019000001"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1053.gebiedengroep.2019000001"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -42,7 +42,7 @@
             	<ga:naam>Noordzeekustzone–vogelrichtlijngebied</ga:naam>
             	<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Vogelrichtlijngebied</ga:groep>
                <ga:locatieaanduiding>
-               	<l:LocatieRef xlink:href="nl.imow-mnre1053.gebied.2019000002"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1053.gebiedengroep.2019000002"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -55,7 +55,7 @@
    				<ga:naam>Natura2000-gebied-Noordzeekustzone</ga:naam>
    				<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Natura2000Gebied</ga:groep>
    				<ga:locatieaanduiding>
-   					<l:LocatieRef xlink:href="nl.imow-mnre1053.gebied.2019000003"/>
+   				   <l:LocatieRef xlink:href="nl.imow-mnre1053.gebiedengroep.2019000003"/>
    				</ga:locatieaanduiding>
    			</ga:Gebiedsaanwijzing>
    		</ow-dc:owObject>

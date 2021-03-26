@@ -16,6 +16,8 @@
       </Bestand>
       <Bestand>
       	<naam>owRegeltekst-Natura-2000.xml</naam>
+         <objecttype>Regeltekst</objecttype>
+         <objecttype>RegelVoorIedereen</objecttype>
       </Bestand>
       <Bestand>
       	<naam>owRegelingsgebied.xml</naam>

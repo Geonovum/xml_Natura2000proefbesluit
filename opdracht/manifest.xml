@@ -5,22 +5,6 @@
 		<contentType>application/xml</contentType>
 	</bestand>
 	<bestand>
-		<bestandsnaam>N2000_Noordzeekustzone_N2000.gml</bestandsnaam>
-		<contentType>application/xml</contentType>
-	</bestand>
-	<bestand>
-		<bestandsnaam>owRegelingsgebied.xml</bestandsnaam>
-		<contentType>application/xml</contentType>
-	</bestand>
-	<bestand>
-		<bestandsnaam>N2000_Noordzeekustzone_vogel.gml</bestandsnaam>
-		<contentType>application/xml</contentType>
-	</bestand>
-	<bestand>
-		<bestandsnaam>owRegeltekst-Natura-2000.xml</bestandsnaam>
-		<contentType>application/xml</contentType>
-	</bestand>
-	<bestand>
 		<bestandsnaam>GIO-N2000_Noordzeekustzone_habitat.xml</bestandsnaam>
 		<contentType>application/xml</contentType>
 	</bestand>
@@ -29,16 +13,47 @@
 		<contentType>application/xml</contentType>
 	</bestand>
 	<bestand>
-		<bestandsnaam>owGebiedsaanwijzingen-Natura2000.xml</bestandsnaam>
+		<bestandsnaam>GIO-N2000_Noordzeekustzone_vogel.xml</bestandsnaam>
 		<contentType>application/xml</contentType>
 	</bestand>
-    <bestand>
-        <bestandsnaam>manifest.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
+	<bestand>
+		<bestandsnaam>manifest.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
 	<bestand>
 		<bestandsnaam>manifest-ow.xml</bestandsnaam>
 		<contentType>application/xml</contentType>
 	</bestand>
-
+	<bestand>
+		<bestandsnaam>N2000_Noordzeekustzone_habitat.gml</bestandsnaam>
+		<contentType>application/gml+xml</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>N2000_Noordzeekustzone_N2000.gml</bestandsnaam>
+		<contentType>application/gml+xml</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>N2000_Noordzeekustzone_vogel.gml</bestandsnaam>
+		<contentType>application/gml+xml</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>opdracht.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>owGebiedsaanwijzingen-Natura2000.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>owLocaties-Natura2000.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>owRegelingsgebied.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>owRegeltekst-Natura-2000.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
 </manifest>

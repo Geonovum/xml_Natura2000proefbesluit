@@ -13,7 +13,7 @@
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1053</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1053</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
-         <officieleTitel>Natura 2000 proefbesluit</officieleTitel>
+         <officieleTitel>Proefbesluit aanwijzing Natura 2000-gebied Noordzeekustzone</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
                <citeertitel>Natura 2000 proefbesluit</citeertitel>
@@ -45,22 +45,17 @@
                <voltooidOp>2021-03-18</voltooidOp>
             </Procedurestap>
             <Procedurestap>
-               <soortStap>/join/id/stop/procedure/stap_00 3</soortStap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
                <voltooidOp>2021-03-18</voltooidOp>
             </Procedurestap>
             <Procedurestap>
-               <soortStap>/join/id/stop/procedure/stap_00 4</soortStap>
-               <voltooidOp>2021-03-18</voltooidOp>
-            </Procedurestap>
-            <Procedurestap>
-               <soortStap>/join/id/stop/procedure/stap_00 6</soortStap>
+               <soortStap>/join/id/stop/procedure/stap_004</soortStap>
                <voltooidOp>2021-03-18</voltooidOp>
             </Procedurestap>
          </procedurestappen>
       </Procedureverloop>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <BeoogdeRegelgeving>
-         	
          	<BeoogdInformatieobject>
          		<doelen>
          			<doel>/join/id/proces/mnre1053/2019/Instelling</doel>
@@ -82,13 +77,12 @@
          		<instrumentVersie>/join/id/regdata/mnre1053/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-01</instrumentVersie>
          		<eId>!initieel_reg#cmp_o_1__div_3__div_3.4__content_o_1__list_o_2__item_o_3__ref_o_1</eId>
          	</BeoogdInformatieobject>
-        	
             <BeoogdeRegeling>
                <doelen>
                   <doel>/join/id/proces/mnre1053/2021/Instelling</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/mnre1053/2021/N2000-001/nld@2021-03-25;1</instrumentVersie>
-               <eId/>
+               <eId>formula_1</eId>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -96,7 +90,7 @@
                <doel>/join/id/proces/mnre1053/2021/Instelling</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2021-03-28</datum>
-               <eId>art_II</eId>
+               <eId>formula_1</eId>
             </Tijdstempel>
          </Tijdstempels>
       </ConsolidatieInformatie>
@@ -104,27 +98,27 @@
          <RegelingOpschrift eId="longTitle" wId="longTitle">
          	<Al>Proefbesluit aanwijzing Natura 2000-gebied Noordzeekustzone</Al>
          </RegelingOpschrift>
-<!-- verwijderd want leeg         <Aanhef eId="formula_1" wId="formula_1">
-            <Al>[optionele aanhef]</Al>
-         </Aanhef>-->
+   <Aanhef eId="formula_1" wId="formula_1">
+      <Al>Dit is een <IntRef ref="longTitle_inst2">aanwijzingsbesluit Natura2000</IntRef>
+         Dit besluit treedt in werking per 28 maart 2021.</Al>
+         </Aanhef>
          <RegelingKlassiek componentnaam="initieel_reg"
                            wordt="/akn/nl/act/mnre1053/2021/N2000-001/nld@2021-03-25;1">
             <RegelingOpschrift eId="longTitle_inst2" wId="longTitle_inst2">
-               <Al>Natura 2000-gebied Noordzeekustzone proefversie</Al>
+               <Al>Natura 2000 proefbesluit</Al>
             </RegelingOpschrift>
             <Aanhef eId="formula_1_inst2" wId="formula_1_inst2">
-               <Al/>
+               
                <Al>Onderstaand is de situatie weergegeven zoals die bestaat volgens het besluit/de besluiten van de Minister van Landbouw en Visserij van:</Al>
                <Al>&lt;datum&gt;, &lt;nummer&gt;, zoals bekendgemaakt in &lt;stcrtnr&gt;.</Al>
-               <Al/>
+               
                <Al>De geconsolideerde inhoud is met zorg samengesteld en dient hier om de informatievoorziening in het Digitaal Stelsel Omgevingswet zo volledig mogelijk te maken. </Al>
                <Al>De informatie is een zo goed mogelijke inhoudelijke weergave van de juridisch geldende tekst op grond van de genoemde besluiten, maar komt daar niet voor in de plaats</Al>
             </Aanhef>
             <Lichaam eId="body" wId="body">
                <Hoofdstuk eId="chp_Besluit" wId="mnre1053_1__chp_Besluit">
                   <Kop>
-                     <Nummer> </Nummer>
-                     <Opschrift/>
+                     <Opschrift>Het besluit</Opschrift>
                   </Kop>
                   <Artikel eId="chp_Besluit__art_1" wId="mnre1053_1__chp_Besluit__art_1">
                      <Kop>
@@ -364,7 +358,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                         </Inhoud>
                      </Lid>
                      <Lid eId="chp_Besluit__art_o_2__para_3"
@@ -490,7 +484,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                         </Inhoud>
                      </Lid>
                   </Artikel>
@@ -533,22 +527,22 @@
                                 wId="mnre1053_1__cmp_o_1__div_1__content_o_1">
                      <Inhoud>
                         <Al>Met dit besluit wordt het gebied Noordzeekustzone aangewezen als speciale beschermingszone onder de Habitatrichtlijn. Tevens wordt met dit besluit het besluit tot de aanwijzing van Noordzeekustzone als speciale beschermingszone onder de Vogelrichtlijn, inclusief de daarbij behorende Nota van toelichting, gewijzigd. Het betreft verder de vorming van het Natura 2000-gebied Noordzeekustzone, hetgeen gebeurt door aan dit besluit instandhoudingsdoelstellingen toe te voegen.</Al>
-                        <Al/>
+                        
                         <Al>In artikel 1 van het besluit staat de naam van het gebied en worden de habitattypen en soorten opgesomd, waarvoor het gebied is aangewezen.</Al>
-                        <Al/>
+                        
                         <Al>Artikel 2 van het besluit regelt de belangrijkste wijzigingen ten opzichte van het eerder genomen besluit tot aanwijzing van het gebied onder de Vogelrichtlijn. Zo wordt de Nota van toelichting, behorende bij het bestaande Vogelrichtlijnbesluit, nagenoeg geheel ingetrokken en zover noodzakelijk vervangen door deze Nota van toelichting. Alleen de toelichting op de criteria die voor de aanwijzing van het gebied zijn gebruikt, wordt niet ingetrokken en wordt in een appendix aan deze Nota gehecht. Daarnaast worden de vogelsoorten opgesomd waarvoor het gebied van belang is en waarvoor het wordt geacht te zijn aangewezen.</Al>
-                        <Al/>
+                        
                         <Al>In artikel 3 van het besluit wordt de term Natura 2000-gebied geïntroduceerd en wordt bepaald dat er voor het gebied een bepaalde instandhoudingsdoelstelling verwezenlijkt dient te worden. Deze doelstelling heeft zowel betrekking op de in artikel 1 opgesomde habitattypen en habitatsoorten als op de in artikel 2 opgesomde vogelsoorten. De vogels waarvoor instandhoudingsdoelstellingen zijn vastgesteld, zijn geselecteerd aan de hand van de criteria die destijds zijn gebruikt bij de aanwijzing van de Vogelrichtlijngebieden in 2000. Beide aanwijzingen tezamen vormen het Natura 2000- gebied Noordzeekustzone, waarvan de instandhoudingsdoelstellingen in dit besluit zijn opgenomen. De instandhoudingsdoelstellingen staan in de Nota van toelichting.</Al>
-                        <Al/>
+                        
                         <Al>Artikel 4 regelt de bekendmaking en de inwerkingtreding van dit besluit.</Al>
-                        <Al/>
+                        
                         <Al>In hoofdstuk 2 van deze Nota van toelichting worden de aanwijzingen op grond van de Habitat- en Vogelrichtlijn kort toegelicht. Vervolgens wordt in hoofdstuk 3 een gebiedsbeschrijving gegeven en wordt ingegaan op eventuele grenswijzigingen die zijn doorgevoerd nadat het gebied bij de Europese Commissie is aangemeld of die zijn doorgevoerd nadat het gebied als Vogelrichtlijngebied is aangewezen. Tevens wordt in hoofdstuk 3 de bij dit besluit behorende kaart toegelicht.</Al>
                         <Al>In hoofdstuk 4 wordt een opsomming gegeven van habitattypen en (vogel)soorten waaraan het gebied zijn betekenis ontleent en worden de eventueel doorgevoerde wijzigingen van een toelichting voorzien. Dit vierde hoofdstuk van de Nota van toelichting is ingevoegd naar aanleiding van de ingediende zienswijzen, omdat in veel zienswijzen duidelijkheid werd gevraagd waarom een bepaald gebied destijds bij de Europese Commissie is aangemeld.</Al>
-                        <Al/>
+                        
                         <Al>Een belangrijk onderdeel van de Nota van toelichting is de opsomming van de instandhoudingsdoelstellingen in hoofdstuk 5. Allereerst worden de algemene doelstellingen geformuleerd en vervolgens staan de instandhoudingsdoelstellingen van de in het gebied aanwezige habitattypen en soorten vermeld. Er wordt aangegeven in welke richting de instandhoudingsdoelstelling zich zal moeten ontwikkelen. Daarvoor worden de termen ‘behoud’, ‘uitbreiding’ of ‘verbetering’ gebruikt. Voor een habitattype wordt de verdeling gemaakt in oppervlakte en kwaliteit, zodat de aanduiding van de instandhoudingsdoelstelling van een habitattype altijd in de vorm van ‘behoud’ of ‘uitbreiding’ van oppervlakte en van ‘behoud’ of ‘verbetering’ van kwaliteit wordt gegeven. Voor soorten is het leefgebied bepalend en geldt een verdeling in omvang en kwaliteit leefgebied. De aanduiding van de instandhoudingsdoelstelling van een soort is altijd in de vorm van ‘behoud’ of ‘uitbreiding’ van omvang leefgebied en van ‘behoud’ of ‘verbetering van kwaliteit van leefgebied.</Al>
-                        <Al/>
+                        
                         <Al>Daarnaast zijn aan de Nota van toelichting drie bijlagen toegevoegd. Ook de bijlagen maken integraal onderdeel uit van het besluit. Bijlage A (voor zover van toepassing) laat zien welke terreindelen zijn vervallen of zijn toegevoegd als onderdeel van de speciale beschermingszone in de zin van de Vogelrichtlijn. Bijlage B omvat een nadere onderbouwing van de wijzigingen in Natura 2000-waarden waarvoor het gebied is aangewezen, van de kwalificatie als speciale beschermingszone in de zin van de Habitatrichtlijn en van de toedeling van de instandhoudingsdoelstellingen. In bijlage C wordt naar aanleiding van de ontvangen zienswijzen een nadere onderbouwing van het besluit gegeven.</Al>
-                        <Al/>
+                        
                      </Inhoud>
                   </Divisietekst>
                </Divisie>
@@ -564,22 +558,22 @@
                      <Inhoud>
                         <Al>Door middel van dit besluit wordt het gebied Noordzeekustzone aangewezen als speciale beschermingszone onder de Habitatrichtlijn (verder aangeduid als “Habitatrichtlijngebied”). Het gebied is in mei 2003 aangemeld volgens de procedure zoals opgenomen in artikel 4 van deze richtlijn, waarna het gebied in december 2004 door de Europese Commissie onder de naam “Noordzeekustzone” en onder nummer NL2003062 is geplaatst op de lijst van gebieden van communautair belang voor de Atlantische biogeografische regio.</Al>
                         <Al>Het gebied is op 7 april 2005 (DRR&amp;R/2005/1065 II) onder de naam “Noordzeekustzone” ook aangewezen als speciale beschermingszone onder de Vogelrichtlijn (verder aangeduid als “Vogelrichtlijngebied”). Bij de Europese Commissie is dit gebied bekend onder nummer NL9802001. Noordzeekustzone was al eerder bij besluit van 24 maart 2000 (N/2000/320) aangewezen als onderdeel van het Vogelrichtlijngebied “Waddeneilanden, Noordzeekustzone, Breebaart”, maar in beslissing op bezwaar van 7 april 2005 (DRR&amp;R/2005/1065 II; Stcrt. 2005, nr. 69) is het in 2000 aangewezen gebied gesplitst in zes afzonderlijke Vogelrichtlijngebieden: Duinen Texel, Duinen Vlieland, Duinen Terschelling, Duinen Ameland, Duinen Schiermonnikoog en Noordzeekustzone. Door middel van dit besluit wordt de nota van toelichting met kenmerk TRCJZ/2004/1725A gewijzigd en wordt de kaart behorende bij besluit DRR&amp;R/2005/1065 II en betrekking hebbende op het onderhavige gebied ingetrokken.</Al>
-                        <Al/>
-                        <Al/>
+                        
+                        
                         <Al>Uit het Vogelrichtlijnbesluit overgenomen tekstdelen zijn in paragraaf 3.2 van deze Nota van toelichting cursief gezet<Noot id="N1" type="voet">
                               <NootNummer>1</NootNummer>
                               <Al> De afkorting sbz (“speciale beschermingszone”) en de aanduiding “beschermingszone” zijn hierin vervangen door de term “Vogelrichtlijngebied”.</Al>
                            </Noot>.</Al>
-                        <Al/>
+                        
                         <Al>Met betrekking tot het Vogelrichtlijngebied kan er in dit besluit naast mogelijke grenswijzigingen ook een wijziging plaatsvinden bij de vogelsoorten, waarvoor dit gebied destijds is aangewezen. Deze eventuele wijzigingen worden toegelicht in hoofdstuk 4 en bijlage B. In dit besluit worden alle vogelsoorten opgesomd waarvoor het gebied wordt geacht te zijn aangewezen.</Al>
-                        <Al/>
+                        
                         <Al>Het Natura 2000-gebied Noordzeekustzone (landelijk gebiedsnummer 7) omvat derhalve het Vogelrichtlijngebied Noordzeekustzone en het Habitatrichtlijngebied Noordzeekustzone.</Al>
                         <Al>Natura 2000 is het samenhangende Europees ecologisch netwerk bestaande uit de gebieden aangewezen onder de Habitatrichtlijn en onder de Vogelrichtlijn. Dit netwerk moet de betrokken natuurlijke habitattypen, habitats van soorten en de leefgebieden van vogels in een gunstige staat van instandhouding behouden of, in voorkomend geval, herstellen. De instandhoudingsdoelstellingen (hoofdstuk 5) en eventuele wijziging van de begrenzing zijn in algemene zin nader toegelicht in het Natura 2000 doelendocument (2006). Dit document geeft het beleidskader van de geformuleerde instandhoudingsdoelstellingen weer en van de daarbij gehanteerde systematiek.</Al>
                         <Al>Beschrijvingen van habitattypen en (vogel)soorten waarvoor doelen zijn vastgesteld, zijn opgenomen in het Natura 2000 profielendocument (2008). Hierin wordt ook ingegaan op de interpretatie van habitattypen en de relatieve bijdrage van afzonderlijke gebieden aan het Natura 2000-netwerk.</Al>
-                        <Al/>
+                        
                         <Al>Het Natura 2000-gebied Noordzeekustzone ligt in de provincies Fryslân, Groningen en Noord-Holland en behoort tot het grondgebied van de gemeenten Ameland, Dongeradeel, Schiermonnikoog, Terschelling, Vlieland, Eemsmond, Den Helder,</Al>
                         <Al>Texel en Zijpe.</Al>
-                        <Al/>
+                        
                      </Inhoud>
                   </Divisietekst>
                   <Divisie eId="cmp_o_1__div_2__div_2.1"
@@ -596,9 +590,9 @@
                                  <NootNummer>2</NootNummer>
                                  <Al> De oude wet kende zowel staatsnatuurmonumenten als beschermde natuurmonumenten. Dit verschil is in de huidige wet komen te vervallen.</Al>
                               </Noot> liggen behouden de status als beschermd natuurmonument. Het staatsnatuurmonument Boschplaat is aangewezen op 8 november 1974 (NBOR/S- 15110; Stcrt. 1974, nr. 221).</Al>
-                           <Al/>
+                           
                            <Al>Op grond van de wet heeft de instandhoudingsdoelstelling voor de gedeelten van het Natura 2000-gebied waarop de aanwijzing als natuurmonument van toepassing was, mede betrekking op de doelstellingen ten aanzien van het behoud, herstel en de ontwikkeling van het natuurschoon of de natuurwetenschappelijke betekenis van het gebied zoals deze waren vastgelegd in het vervallen besluit (zie verder hoofdstuk 5). De gebieden, die in het verleden als natuurmonument zijn aangewezen, zijn op de bijgevoegde kaarten ook als zodanig te herkennen.</Al>
-                           <Al/>
+                           
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -612,9 +606,7 @@
                   </Kop>
                   <Divisietekst eId="cmp_o_1__div_3__content_o_1"
                                 wId="mnre1053_1__cmp_o_1__div_3__content_o_1">
-                     <Inhoud>
-                        <Al/>
-                     </Inhoud>
+                     <Gereserveerd/>
                   </Divisietekst>
                   <Divisie eId="cmp_o_1__div_3__div_3.1"
                            wId="mnre1053_1__cmp_o_1__div_3__div_3.1"
@@ -627,7 +619,7 @@
                                    wId="mnre1053_1__cmp_o_1__div_3__div_3.1__content_o_1">
                         <Inhoud>
                            <Al>Het zandige kustgebied langs de Noordzee bestaat uit kustwateren, ondiepten, enkele zandbanken (o.a. Noorderhaaks) en de stranden van noordelijk Noord-Holland en de waddeneilanden. De kustwateren bestaan uit permanent met zeewater overstroomde zandbanken die maximaal 20 meter diep liggen. Op het land komen plaatselijk “groene stranden” voor. Op Schiermonnikoog zijn deze het beste ontwikkeld met een afwisseling van kwelders en vochtige duinvalleien.</Al>
-                           <Al/>
+                           
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -642,23 +634,23 @@
                                    wId="mnre1053_1__cmp_o_1__div_3__div_3.2__content_o_1">
                         <Inhoud>
                            <Al>Het gebied Noordzeekustzone behoort tot het Natura 2000-landschap “Noordzee, Waddenzee en Delta”.</Al>
-                           <Al/>
+                           
                            <Al>De ligging van de habitattypen en van de leefgebieden van de soorten (paragraaf 4.4) waarvoor het gebied is aangewezen, vormt het uitgangspunt voor de begrenzing van de Habitatrichtlijngebieden. Dit is inclusief terreindelen die in kwaliteit zijn achteruitgegaan of gedegenereerd. Daarnaast omvat het begrensde gebied ook natuurwaarden die integraal onderdeel uitmaken van de ecosystemen waartoe de betreffende habitattypen en leefgebieden van soorten behoren, alsmede terreindelen (incl. nieuwe natuur) die noodzakelijk worden geacht om de betreffende habitattypen en leefgebieden van soorten in stand te houden en te herstellen<Noot id="N3" type="voet">
                                  <NootNummer>3</NootNummer>
                                  <Al> De begrenzingsmethodiek is verder uitgewerkt in het Gebiedendocument (2004).</Al>
                               </Noot>.</Al>
-                           <Al/>
+                           
                            <Al>Bij de keuze en de afbakening van de gebieden is geen rekening gehouden met andere vereisten dan die verband houden met de instandhouding van de natuurlijke habitats en de wilde flora en fauna.<Noot id="N4" type="voet">
                                  <NootNummer>4</NootNummer>
                                  <Al> Hof van Justitie EG, 7 november 2000, First Corporate Shipping, zaak C-371/98, punten 15 en 25.</Al>
                               </Noot>
                            </Al>
-                           <Al/>
+                           
                            <Al>De grenzen van een Vogelrichtlijngebied worden bepaald door het gebruik dat de aanwezige bijlage I-soorten, en/of trekkende watervogels, en/of overige trekkende vogels ervan maken, waarbij wordt uitgegaan van landschapsecologische eenheden en de biotoopeisen van de betrokken vogelsoorten. Het gebied Noordzeekustzone is aangewezen onder de Vogelrichtlijn vanwege de aanwezigheid van kustwater, zandstranden en platen die als geheel het leefgebied vormen van een aantal in artikel 4 van de Richtlijn bedoelde vogelsoorten. Het is een watergebied dat het leefgebied vormt van soorten van Bijlage I van de Vogelrichtlijn (art. 4.1) en tevens fungeert Noordzeekustzone als broed-, rui-, overwinteringsgebied en rustplaats in de trekzone van andere trekvogelsoorten (art. 4.2). De begrenzing van de beschermingszone is zo gekozen dat een in landschappelijk en vogelkundig opzicht samenhangend geheel is ontstaan dat - in samenhang met het Vogelrichtlijngebied Waddenzee uit 1991 - voorziet in de beschermingsbehoefte met betrekking tot het voortbestaan en/ of voortplanten van bedoelde vogelsoorten<Noot id="N5" type="voet">
                                  <NootNummer>5</NootNummer>
                                  <Al> De wijze van begrenzing van Vogelrichtlijngebieden is toegelicht in de Nota van Antwoord</Al>
                               </Noot>.</Al>
-                           <Al/>
+                           
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -672,11 +664,11 @@
                      <Divisietekst eId="cmp_o_1__div_3__div_3.3__content_o_1"
                                    wId="mnre1053_1__cmp_o_1__div_3__div_3.3__content_o_1">
                         <Inhoud>
-                           <Al/>
+                           
                            <Al>De begrenzing van het Natura 2000-gebied is aangegeven op de bij dit besluit behorende kaarten. Het Natura 2000-gebied Noordzeekustzone bestaat uit de kustwateren van de Noordzee tussen Bergen aan Zee en de Eems. De zeewaartse grens van het Vogelrichtlijngebied en het Habitatrichtlijngebied is gelijkgetrokken en ligt op de doorgaande dieptelijn van NAP -20 meter. Op de (bewoonde) eilanden ligt de grens op de duinvoet. Langs de Noord-Hollandse kust ligt de grens op de laagwaterlijn. In de zeegaten tussen Noordzee en Waddenzee en ten oosten van Schiermonnikoog valt de grens samen met die van de Waddenzee (deze grens is gebaseerd op de Planologische Kernbeslissing Waddenzee).</Al>
-                           <Al/>
+                           
                            <Al>Het Natura 2000-gebied heeft een oppervlakte van 144.474 ha. Van het in hoofdstuk 2 genoemde (voormalige) staatsnatuurmonument Boschplaat ligt een oppervlakte van 579 ha binnen dit Natura 2000- gebied. Het grootste deel van het natuurmonument ligt in de aangrenzende Natura 2000-gebieden Waddenzee en Duinen Terschelling.</Al>
-                           <Al/>
+                           
                            <Al>De begrenzing van het Habitatrichtlijngebied is als volgt gewijzigd:</Al>
                            <Al>De stranden Texel en Terschelling zijn overgeheveld van respectievelijk Duinen Texel en Duinen Terschelling naar de Noordzeekustzone (overeenkomstig de Vogelrichtlijn- begrenzing). Dit in analogie met de begrenzing van de Waddenzee (incl. kwelders, zandplaten en stranden). De stranden van Vlieland, Ameland en Schiermonnikoog maakten reeds deel uit van het Habitatrichtlijngebied Noordzeekustzone.</Al>
                            <Lijst eId="cmp_o_1__div_3__div_3.3__content_o_1__list_o_1"
@@ -702,7 +694,7 @@
                                  <Al>Op Texel is het mondingsgebied van De Slufter (14 ha, kaart C) overgeheveld van Vogelrichtlijngebied Noordzeekustzone naar Vogelrichtlijngebied Duinen Texel zodat een meer logische en beter in het veld herkenbare grens ontstaat. (o)</Al>
                               </Li>
                            </Lijst>
-                           <Al/>
+                           
                            <Lijst eId="cmp_o_1__div_3__div_3.3__content_o_1__list_o_2"
                                   wId="mnre1053_1__cmp_o_1__div_3__div_3.3__content_o_1__list_o_2"
                                   type="expliciet">
@@ -721,7 +713,7 @@
                                     </Noot>.</Al>
                               </Li>
                            </Lijst>
-                           <Al/>
+                           
                            <Lijst eId="cmp_o_1__div_3__div_3.3__content_o_1__list_o_3"
                                   wId="mnre1053_1__cmp_o_1__div_3__div_3.3__content_o_1__list_o_3"
                                   type="expliciet">
@@ -737,14 +729,14 @@
                                  <Al>De zuidgrens is verlegd van Petten (Paal 22) naar Bergen aan Zee (Paal 34). Dit is onderdeel van het leefgebied van de zwarte zee-eend, één van de soorten waarvoor het gebied is aangewezen. Dit betekent een uitbreiding van 7.542 ha.</Al>
                               </Li>
                            </Lijst>
-                           <Al/>
+                           
                            <Al>Met bovenstaande wijzigingen wordt invulling gegeven aan het voornemen tot een uitbreiding over te gaan zoals dat is omschreven in het aanwijzingsbesluit van het Natura 2000-gebied Noordzeekustzone (2009)<Noot id="N9" type="voet">
                                  <NootNummer>9</NootNummer>
                                  <Al> Aanwijzingsbesluit Natura 2000-gebied Noordzeekustzone is gepubliceerd in Stcrt. 2009, 38.</Al>
                               </Noot>.</Al>
-                           <Al/>
+                           
                            <Al>Het voornemen bestaat om in 2010 tot een uitbreiding van het Habitatrichtlijngebied over te gaan op grond van het op 8 juli 2005 door de ministerraad vastgesteld Integraal Beheerplan Noordzee 2015 (zie ook bijlage C, paragraaf 3.2). De zeewaartse grens wordt daarbij gelegd op de dieptelijn van 20 meter. Bij deze gelegenheid zal de begrenzing van het Vogelrichtlijngebied worden gelijkgetrokken met die van het Habitatrichtlijngebied. Daaraan voorafgaand zal de beoogde uitbreiding van het Habitatrichtlijngebied worden aangemeld bij de Europese Commissie (op grond van artikel 4, eerste lid, van de Habitatrichtlijn).</Al>
-                           <Al/>
+                           
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -759,7 +751,7 @@
                                    wId="mnre1053_1__cmp_o_1__div_3__div_3.4__content_o_1">
                         <Inhoud>
                            <Al>De begrenzing van het Natura 2000-gebied is aangegeven op de bij de aanwijzing behorende kaart. Voor zover van toepassing is daarbij onderscheid gemaakt tussen de begrenzingen van Habitatrichtlijngebied, Vogelrichtlijngebied en (voormalige) natuurmonumenten. Daar waar de kaart en de Nota van toelichting, bijvoorbeeld om kaarttechnische redenen, niet overeenstemmen, is de tekst in deze paragraaf doorslaggevend. In voorkomende gevallen zijn op de kaart ook aangrenzende Natura 2000-gebieden aangegeven. Aan de indicatief aangeduide begrenzing van deze gebieden kunnen geen rechten worden ontleend (voor de begrenzing van deze gebieden wordt verwezen naar de kaarten van de betreffende aangewezen of aangemelde gebieden).</Al>
-                           <Al/>
+                           
                            <Lijst eId="cmp_o_1__div_3__div_3.4__content_o_1__list_o_1"
                                   wId="mnre1053_1__cmp_o_1__div_3__div_3.4__content_o_1__list_o_1"
                                   type="expliciet">
@@ -786,10 +778,10 @@
                                  <Al>Hoofdspoorwegen betreffen spoorlijnen die zijn opgenomen in het Besluit aanwijzing hoofdspoorwegen (Stb. 2004, nr. 722). Voor de begrenzing langs hoofdspoorwegen geldt artikel 20 van de Spoorwegwet.</Al>
                               </Li>
                            </Lijst>
-                           <Al/>
+                           
                            <Al>Met betrekking tot het grensverloop langs de duinvoet geldt het volgende voor zover van toepassing in het onderhavige gebied: De zeewaartse grens van duingebieden loopt langs de duinvoet van het buitenduin. Bij duinaangroei verplaatst de grens zich zeewaarts, bij duinafslag landinwaarts met de duinvoet mee. </Al>
-                           <Al/>
-                           <Al/>
+                           
+                           
                         	
                         		<Begrippenlijst eId="cmp_o_1__div_3__div_3.4__content_o_1__list_o_2" wId="mnre1053_1__cmp_o_1__div_3__div_3.4__content_o_1__list_o_2">
                         			<Begrip eId="cmp_o_1__div_3__div_3.4__content_o_1__list_o_2__item_o_1" wId="mnre1053_1__cmp_o_1__div_3__div_3.4__content_o_1__list_o_2__item_o_1">
@@ -831,9 +823,7 @@
                   </Kop>
                   <Divisietekst eId="cmp_o_1__div_4__content_o_1"
                                 wId="mnre1053_1__cmp_o_1__div_4__content_o_1">
-                     <Inhoud>
-                        <Al/>
-                     </Inhoud>
+                     <Gereserveerd/>
                   </Divisietekst>
                   <Divisie eId="cmp_o_1__div_4__div_4.1"
                            wId="mnre1053_1__cmp_o_1__div_4__div_4.1"
@@ -850,7 +840,7 @@
                                  <Al> Prioritaire habitattypen en habitatrichtlijn-soorten zijn in bijlagen I en II van de Habitatrichtlijn en in dit besluit aangeduid met een sterretje (*).</Al>
                               </Noot>. Paragraaf 4.2.3 vermeldt de vogelsoorten waarvoor het gebied onder de Vogelrichtlijn is aangewezen. Op alle vermelde habitattypen en soorten is een instandhoudingsdoelstelling van toepassing (zie hoofdstuk 5).</Al>
                            <Al>Vervolgens wordt in paragraaf 4.3 vermeld welke selectiecriteria op het Habitatrichtlijngebied van toepassing zijn en wordt onderbouwd waarom het gebied als Habitatrichtlijngebied is geselecteerd. Van elk habitattype en van elke soort waarvoor het gebied aan de selectiecriteria voldoet, wordt in bijlage B.3 in tekst en/of tabelvorm de betekenis (relatieve bijdrage) van het gebied afgezet tegen de betekenis van de andere Habitatrichtlijngebieden die aan de selectiecriteria voldoen. Tenslotte beschrijft paragraaf 4.4 de verspreiding van habitattypen en soorten binnen het gebied, ter onderbouwing van de gevolgde gebiedsbegrenzing.</Al>
-                           <Al/>
+                           
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -863,9 +853,7 @@
                      </Kop>
                      <Divisietekst eId="cmp_o_1__div_4__div_4.2__content_o_1"
                                    wId="mnre1053_1__cmp_o_1__div_4__div_4.2__content_o_1">
-                        <Inhoud>
-                           <Al/>
-                        </Inhoud>
+                        <Gereserveerd/>
                      </Divisietekst>
                      <Divisie eId="cmp_o_1__div_4__div_4.2__div_4.2.1"
                               wId="mnre1053_1__cmp_o_1__div_4__div_4.2__div_4.2.1"
@@ -881,31 +869,31 @@
                                       wId="mnre1053_1__cmp_o_1__div_4__div_4.2__div_4.2.1__content_o_1">
                            <Inhoud>
                               <Al>Het gebied is aangewezen voor de volgende natuurlijke habitats opgenomen in bijlage I van de Habitattrichtlijn, waarvoor het gebied een bijdrage levert aan de instandhouding op landelijk niveau. Ten behoeve van de nationale uitwerking van de Habitatrichtlijn is een deel van de habitattypen verdeeld in subtypen, vanwege de zeer ruime variatie in fysieke omstandigheden en soortensamenstelling. De namen van de habitattypen en daarvan afgeleide subtypen zullen verder met hun verkorte namen worden aangeduid. Wijzigingen ten opzichte van de aanmelding als Habitatrichtlijngebied (2003) en/of het ontwerpbesluit (2007) zijn verklaard in bijlage B.1 van deze Nota van toelichting6.</Al>
-                              <Al/>
+                              
                               <Al>H1110 Permanent met zeewater van geringe diepte overstroomde zandbanken</Al>
                               <Al>Verkorte naam Permanent overstroomde zandbanken betreft het subtype:</Al>
                               <Al>H1110B Permanent overstroomde zandbanken (Noordzee-kustzone)</Al>
-                              <Al/>
+                              
                               <Al>H1140 Bij eb droogvallende slikwadden en zandplaten</Al>
                               <Al>Verkorte naam Slik- en zandplaten betreft het subtype:</Al>
                               <Al>H1140B Slik- en zandplaten (Noordzee-kustzone)</Al>
-                              <Al/>
+                              
                               <Al>H1310 Eenjarige pioniersvegetaties van slik- en zandgebieden met Salicornia spp. en andere zoutminnende soorten</Al>
                               <Al>Verkorte naam Zilte pionierbegroeiingen betreft de subtypen:</Al>
                               <Al>H1310A Zilte pionierbegroeiingen (zeekraal)</Al>
                               <Al>H1310B Zilte pionierbegroeiingen (zeevetmuur)</Al>
-                              <Al/>
+                              
                               <Al>H1330 Atlantische schorren (Glauco-Puccinellietalia maritimae)</Al>
                               <Al>Verkorte naam Schorren en zilte graslanden betreft het subtype:</Al>
                               <Al>H1330A Schorren en zilte graslanden (buitendijks)</Al>
-                              <Al/>
+                              
                               <Al>H2110 Embryonale wandelende duinen</Al>
                               <Al>Verkorte naam Embryonale duinen</Al>
-                              <Al/>
+                              
                               <Al>H2190 Vochtige duinvalleien</Al>
                               <Al>Verkorte naam Vochtige duinvalleien betreft het subtype:</Al>
                               <Al>H2190B Vochtige duinvalleien (kalkrijk)</Al>
-                              <Al/>
+                              
                            </Inhoud>
                         </Divisietekst>
                      </Divisie>
@@ -982,7 +970,7 @@
                                     </tbody>
                                  </tgroup>
                               </table>
-                              <Al/>
+                              
                            </Inhoud>
                         </Divisietekst>
                      </Divisie>
@@ -1066,7 +1054,7 @@
                                     </tbody>
                                  </tgroup>
                               </table>
-                              <Al/>
+                              
                               <Al>Verder is het gebied aangewezen voor de volgende andere geregeld voorkomende trekvogels waarvoor het gebied van betekenis is als broed-, rui- en/of overwinteringsgebied en rustplaatsen in hun trekzones (artikel 4.2):</Al>
                               <table eId="cmp_o_1__div_4__div_4.2__div_4.2.3__content_o_1__table_o_2"
                                      wId="mnre1053_1__cmp_o_1__div_4__div_4.2__div_4.2.3__content_o_1__table_o_2"
@@ -1186,7 +1174,7 @@
                                  </tgroup>
                               </table>
                               <Al>Wijzigingen ten opzichte van de aanwijzing als Vogelrichtlijngebied (2005) zijn verklaard in bijlage B.2 van deze Nota van toelichting.</Al>
-                              <Al/>
+                              
                            </Inhoud>
                         </Divisietekst>
                      </Divisie>
@@ -1335,13 +1323,13 @@
                                     </tbody>
                                  </tgroup>
                               </table>
-                              <Al/>
+                              
                               <Al>(a) Aantal gebieden dat maximaal voor dit habitattype kan worden geselecteerd volgens het criterium: “behorend tot één van de X belangrijkste gebieden” voor het betreffende habitattype.</Al>
                               <Al>(b) Aantal gebieden dat op grond van dit selectiecriterium voor het habitattype is geselecteerd (Y &lt; X indien er minder dan X gebieden zijn waarin het habitattype is vastgesteld of voorkomt in differentiërende omvang).</Al>
                               <Al>(c) Geschatte landelijke oppervlakte van het (subtype van het) habitattype in hectaren.</Al>
                               <Al>(d) Oppervlakte in het onderhavige gebied uitgedrukt als percentage van de landelijke oppervlakte.</Al>
                               <Al>(e) Oppervlakte van het habitattype in het, in rangorde van aflopende betekenis, Yde belangrijkste gebied (niet ingevuld indien niet van belang voor de bepaling van de relatieve betekenis van het gebied, wanneer representativiteit in plaats van oppervlakte doorslaggevend was).</Al>
-                              <Al/>
+                              
                            </Inhoud>
                         </Divisietekst>
                      </Divisie>
@@ -1360,8 +1348,8 @@
                                     <Al> Voor de volgende soorten zijn bij de aanmelding van de Habitatrichtlijngebieden (2003) geen gebieden geselecteerd: zeeprik (H1095), elft (H1102), zalm (H1106), bittervoorn (H1134) en kleine modderkruiper (H1149). Voor de platte schijfhoren (H4056) zijn geen gebieden geselecteerd omdat de soort bij de uitbreiding van de EU in 2004 is toegevoegd bijlage II.</Al>
                                  </Noot>. De betekenis van het gebied is afgemeten aan de omvang van de aanwezige populatie. In een tweede stap zijn eventueel nog extra gebieden toegevoegd met het oog op landelijke dekking, geografische spreiding en grensoverschrijding. In de onderstaande tabel zijn de soorten vermeld die bij de</Al>
                               <Al>aanmelding hebben geleid tot selectie van het gebied en/of de soorten waarvoor het gebied op grond van de huidige gegevens en omstandigheden aan de selectiecriteria zou voldoen (zie ook bijlage B.3).</Al>
-                              <Al/>
-                              <Al/>
+                              
+                              
                               <table eId="cmp_o_1__div_4__div_4.3__div_4.3.2__content_o_1__table_o_1"
                                      wId="mnre1053_1__cmp_o_1__div_4__div_4.3__div_4.3.2__content_o_1__table_o_1"
                                      eigen:class="standaard"
@@ -1464,13 +1452,13 @@
                                     </tbody>
                                  </tgroup>
                               </table>
-                              <Al/>
+                              
                               <Al>(a) Aantal gebieden dat maximaal voor deze soort kan worden geselecteerd volgens het criterium: “behorend tot één van de X belangrijkste gebieden” voor de betreffende soort.</Al>
                               <Al>(b) Aantal gebieden dat op grond van het onder (a) genoemde selectiecriterium voor de soort is geselecteerd (Y &lt; X indien er minder dan X gebieden zijn waarin deze soort is vastgesteld of voorkomt in differentiërende omvang).</Al>
                               <Al>(c) Landelijke voortplantingspopulatie in exemplaren of aantal bezette kilometerhokken (km<sup>2</sup>).</Al>
                               <Al>(d) Populatiegrootte in het onderhavige gebied uitgedrukt als percentage van de landelijke populatie.</Al>
                               <Al>(e) Populatiegrootte in het, in rangorde van aflopende betekenis, Yde belangrijkste gebied.</Al>
-                              <Al/>
+                              
                            </Inhoud>
                         </Divisietekst>
                      </Divisie>
@@ -1486,11 +1474,11 @@
                                    wId="mnre1053_1__cmp_o_1__div_4__div_4.4__content_o_1">
                         <Inhoud>
                            <Al>De begrenzing van het Habitatrichtlijngebied Noordzeekustzone is in het bijzonder bepaald aan de hand van de ligging van habitattypen en leefgebieden van de soorten waarvoor het gebied is aangewezen (zie verder paragraaf 3.2). De verspreiding van de betreffende habitattypen en soorten binnen het gebied wordt in deze paragraaf globaal beschreven ter onderbouwing van de gevolgde begrenzing. Het is niet bedoeld als een uitputtende beschrijving. Gezien de in het gebied voorkomende erosie- en sedimentatieprocessen door water en wind wisselt voorkomen van de habitattypen in omvang, ruimte en tijd. De daarmee samenhangende vernieuwing, verjonging en veroudering van habitattypen (zoals H1310 en H2110) is een van de meest essentiële natuurlijke kenmerken van het gebied. Dit betekent ook dat de begroeiingen van het ene subtype in het andere of van het ene habitattype in het andere kunnen overgaan.</Al>
-                           <Al/>
+                           
                            <Al>Het open zeegebied van Noordzeekustzone bestaat geheel uit subtype Noordzee- kustzone van habitattype permanent overstroomde zandbanken (H1110B).</Al>
                            <Al>Droogvallende platen (met name rond Noorderhaaks/Razende Bol) en de stranden tussen hoog- en laagwaterlijn betreffen subtype Noordzee-kustzone van habitattype slik- en zandplaten (H1140B). Beide subtypen van zilte pionierbegroeiingen (H1310A en H1310B) en schorren en zilte graslanden, zeekraal (H1330A) komen alleen voor op de zogenoemde “groene stranden” van Ameland en Schiermonnikoog. Embryonale duinen (H2110) komen verspreid voor op zandplaten en stranden van Texel tot en met Rottumerplaat. Vooral langs het Groene Strand van Schiermonnikoog is dit habitattype in uitgestrekte vorm aanwezig. Vochtige duinvalleien (H2190B) zijn thans, voor zover bekend, alleen aanwezig op het Groene Strand van Schiermonnikoog.</Al>
                            <Al>Bruinvissen (H1351) komen vooral in de wintermaanden in de gehele Noordzeekustzone voor. Grijze zeehond (H1364) en gewone zeehond (H1365) gebruiken het gebied om te foerageren, waarbij de grijze zeehond zich concentreert ten westen van Texel en Den Helder. In elk geval voor de populatie gewone zeehonden van de Waddenzee vormt de Noordzeekustzone ’s winters een belangrijk voedselgebied. De zeeprik (H1095), rivierprik (H1099) en fint (H1103) zijn verspreid over het zeegebied aangetroffen</Al>
-                           <Al/>
+                           
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -1504,9 +1492,7 @@
                   </Kop>
                   <Divisietekst eId="cmp_o_1__div_5__content_o_1"
                                 wId="mnre1053_1__cmp_o_1__div_5__content_o_1">
-                     <Inhoud>
-                        <Al/>
-                     </Inhoud>
+                     <Gereserveerd/>
                   </Divisietekst>
                   <Divisie eId="cmp_o_1__div_5__div_5.1"
                            wId="mnre1053_1__cmp_o_1__div_5__div_5.1"
@@ -1519,17 +1505,17 @@
                                    wId="mnre1053_1__cmp_o_1__div_5__div_5.1__content_o_1">
                         <Inhoud>
                            <Al>Het ecologisch netwerk Natura 2000 moet de betrokken natuurlijke habitats en leefgebieden van soorten in hun natuurlijke verspreidingsgebied in een gunstige staat van instandhouding behouden of in voorkomend geval herstellen. Onder het begrip “instandhouding” wordt een geheel aan maatregelen verstaan die nodig zijn voor het behoud of herstel van natuurlijke habitats en populaties van wilde dier- en plantensoorten in een gunstige staat van instandhouding. Ingevolge artikel 4, vierde lid, Habitatrichtlijn worden bij aanwijzing als Habitatrichtlijngebied “tevens de prioriteiten vast[gesteld] gelet op het belang van de gebieden voor het in een gunstige staat van instandhouding behouden of herstellen van een type natuurlijke habitat […] of van een soort […] alsmede voor de coherentie van Natura 2000 en gelet op de voor dat gebied bestaande dreiging van achteruitgang en vernietiging”.</Al>
-                           <Al/>
+                           
                            <Al>Deze bepaling is in artikel 10a, tweede lid, van de Natuurbeschermingswet 1998 nader uitgewerkt. Op grond van dit artikel bestaat de verplichting om in een aanwijzing doelstellingen ten aanzien van de instandhouding van leefgebieden van vogelsoorten dan wel doelstellingen ten aanzien van de instandhouding van natuurlijke habitats of populaties van de in het wild levende dier- en plantensoorten op te nemen. Om die reden zijn voor elk Natura 2000-gebied instandhoudingsdoelstellingen ontwikkeld, waarbij per habitattype en per (vogel)soort is uitgegaan van landelijke doelen en de bijdrage die een gebied redelijkerwijs kan leveren voor het bereiken van een gunstige staat van instandhouding op landelijk niveau. Tevens is daarbij aangegeven welke habitattypen en/of soorten ten koste mogen gaan van andere habitattypen en soorten. Voor een beperkt aantal soorten en habitattypen zijn op basis van artikel 10a, derde lid van de Natuurbeschermingswet 1998 “complementaire doelen” geformuleerd. Het betreft soorten en habitattypen die onder druk staan en waarvoor Nederland in Europees verband een bijzondere verantwoordelijkheid heeft. Dit betekent dat aan een beperkt aantal Vogelrichtlijngebieden Habitatrichtlijndoelen zijn toegekend (en andersom) en dat aan een beperkt aantal Habitatrichtlijngebieden “ontwikkeldoelen” zijn toegekend. Met behulp van deze complementaire doelen is de realisering van de landelijke doelen voldoende gewaarborgd. Deze doelen maken volwaardig onderdeel uit van de aanwijzingsbesluiten. De betreffende waarden worden niet aangemeld bij de Europese Commissie.</Al>
                            <Al>Voor de Natura 2000-gebieden zullen in beheerplannen instandhoudingsmaatregelen worden uitgewerkt die beantwoorden aan de gebiedsspecifieke ecologische vereisten van de betrokken natuurlijke habitats en soorten.</Al>
-                           <Al/>
+                           
                            <Al>Als verdere invulling van het stellen van prioriteiten zijn voor de acht onderscheiden Natura 2000-landschappen<Noot id="N15" type="voet">
                                  <NootNummer>15</NootNummer>
                                  <Al> Het Natura 2000-landschap van het gebied waarop dit besluit betrekking heeft, staat vermeld in paragraaf 3.2 van deze Nota van toelichting.</Al>
                               </Noot> op grond van de daar voorkomende habitattypen en soorten, hun landelijke betekenis van deze waarden binnen het betreffende landschap, de belangrijkste verbeteropgaven en de beïnvloedingsmogelijkheden, kernopgaven geformuleerd. Per landschap omvatten ze de belangrijkste behoud- en herstelopgaven. De kernopgaven stellen prioriteiten (“richting geven”) en geven overeenkomsten en verschillen tussen en binnen de gebieden aan. Zij hebben in het bijzonder betrekking op habitattypen en soorten die sterk onder druk staan en/of waarvoor Nederland van groot of zeer groot belang is. De kernopgaven worden per Natura 2000-landschap behandeld en opgesomd in hoofdstuk 5 van het Natura 2000 doelendocument (2006).</Al>
-                           <Al/>
+                           
                            <Al>In bijlage B.4 van deze Nota van toelichting is een overzicht opgenomen van alle gebiedsdoelstellingen per habitattype en per (vogel)soort.</Al>
-                           <Al/>
+                           
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -1568,7 +1554,7 @@
                                  <Al>de op het gebied van toepassing zijnde ecologische vereisten van de habitattypen en soorten waarvoor het gebied is aangewezen.</Al>
                               </Li>
                            </Lijst>
-                           <Al/>
+                           
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -1619,7 +1605,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.3__content_o_1__table_o_2"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.3__content_o_1__table_o_2"
                                   eigen:class="standaard"
@@ -1657,7 +1643,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.3__content_o_1__table_o_3"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.3__content_o_1__table_o_3"
                                   eigen:class="standaard"
@@ -1695,7 +1681,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.3__content_o_1__table_o_4"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.3__content_o_1__table_o_4"
                                   eigen:class="standaard"
@@ -1733,7 +1719,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.3__content_o_1__table_o_5"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.3__content_o_1__table_o_5"
                                   eigen:class="standaard"
@@ -1771,7 +1757,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.3__content_o_1__table_o_6"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.3__content_o_1__table_o_6"
                                   eigen:class="standaard"
@@ -1809,7 +1795,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -1860,7 +1846,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.4__content_o_1__table_o_2"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.4__content_o_1__table_o_2"
                                   eigen:class="standaard"
@@ -1898,7 +1884,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.4__content_o_1__table_o_3"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.4__content_o_1__table_o_3"
                                   eigen:class="standaard"
@@ -1936,7 +1922,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.4__content_o_1__table_o_4"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.4__content_o_1__table_o_4"
                                   eigen:class="standaard"
@@ -1974,7 +1960,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.4__content_o_1__table_o_5"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.4__content_o_1__table_o_5"
                                   eigen:class="standaard"
@@ -2012,7 +1998,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.4__content_o_1__table_o_6"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.4__content_o_1__table_o_6"
                                   eigen:class="standaard"
@@ -2050,7 +2036,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -2101,7 +2087,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.5__content_o_1__table_o_2"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.5__content_o_1__table_o_2"
                                   eigen:class="standaard"
@@ -2139,7 +2125,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.5__content_o_1__table_o_3"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.5__content_o_1__table_o_3"
                                   eigen:class="standaard"
@@ -2227,7 +2213,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_2"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_2"
                                   eigen:class="standaard"
@@ -2265,7 +2251,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_3"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_3"
                                   eigen:class="standaard"
@@ -2303,7 +2289,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_4"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_4"
                                   eigen:class="standaard"
@@ -2341,7 +2327,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_5"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_5"
                                   eigen:class="standaard"
@@ -2379,7 +2365,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_6"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_6"
                                   eigen:class="standaard"
@@ -2417,8 +2403,8 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
-                           <Al/>
+                           
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_7"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_7"
                                   eigen:class="standaard"
@@ -2456,7 +2442,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_8"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_8"
                                   eigen:class="standaard"
@@ -2494,7 +2480,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_9"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_9"
                                   eigen:class="standaard"
@@ -2532,7 +2518,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_10"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_10"
                                   eigen:class="standaard"
@@ -2570,7 +2556,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_11"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_11"
                                   eigen:class="standaard"
@@ -2608,7 +2594,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_12"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_12"
                                   eigen:class="standaard"
@@ -2646,7 +2632,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_13"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_13"
                                   eigen:class="standaard"
@@ -2684,7 +2670,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_14"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_14"
                                   eigen:class="standaard"
@@ -2722,7 +2708,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_15"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_15"
                                   eigen:class="standaard"
@@ -2760,7 +2746,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_16"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_16"
                                   eigen:class="standaard"
@@ -2798,7 +2784,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_17"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_17"
                                   eigen:class="standaard"
@@ -2836,7 +2822,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_18"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_18"
                                   eigen:class="standaard"
@@ -2874,7 +2860,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                            <table eId="cmp_o_1__div_5__div_5.6__content_o_1__table_o_19"
                                   wId="mnre1053_1__cmp_o_1__div_5__div_5.6__content_o_1__table_o_19"
                                   eigen:class="standaard"
@@ -2912,7 +2898,7 @@
                                  </tbody>
                               </tgroup>
                            </table>
-                           <Al/>
+                           
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -2929,10 +2915,6 @@
                            <Al>Het Natura 2000-gebied omvat één of meer beschermde natuurmonumenten (zie paragrafen 2.1 en 3.3). Ingevolge artikel 15a, derde lid, Natuurbeschermingswet 1998 heeft de Natura 2000-opgave voor dat deel van het gebied, dat zijn status als beschermd natuurmonument heeft verloren, mede betrekking op de doelstellingen ten aanzien van het behoud, herstel en de ontwikkeling van het natuurschoon of de natuurwetenschappelijke betekenis van het gebied zoals bepaald in het van rechtswege vervallen besluit. Voor zover deze doelstellingen Natura 2000-waarden betreffen, maken deze deel uit van de in voorgaande paragrafen opgenomen instandhoudingsdoelstellingen. Indien de doelstellingen geen Natura 2000-waarden betreffen, houden deze doelstellingen, zoals de bescherming van het natuurschoon, hun zelfstandige betekenis. In een aantal gevallen is het niet mogelijk om zowel de doelen die voortkomen uit de aanwijzing als beschermd natuurmonument als de Natura 2000-doelstellingen te bereiken (bijvoorbeeld omdat dat om tegenstrijdig beheer vraagt). In deze gevallen hebben de Natura 2000-doelen, voorrang om de Europeesrechtelijke verplichtingen na te komen.</Al>
                            <Al>In een handreiking zal voor elk gebied expliciet worden toegelicht hoe de doelen (cq. natuurwetenschappelijke betekenis en landschappelijke waarden) van beschermde</Al>
                            <Al>natuurmonumenten en de Natura-2000 doelen zich tot elkaar verhouden. In het beheerplan zullen deze doelen, net als die van Natura 2000 in ruimte en tijd worden uitgewerkt. Dan wordt ook uitgewerkt waar achteruitgang van het natuurschoon en de natuurwetenschappelijke betekenis is toegestaan ten gunste van Natura 2000- instandhoudingsdoelstellingen.</Al>
-                           <Al/>
-                           <Al>
-                              <br/>
-                           </Al>
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -2958,7 +2940,7 @@
                                         uitlijning="start"/>
                            <Bijschrift locatie="boven">Figuur A. Topografische ondergrond: © De auteursrechten en databankrechten zijn voorbehouden aan de Topografische Dienst Kadaster, Emmen, 2008</Bijschrift>
                         </Figuur>
-                        <Al/>
+                        
                         <Figuur eId="cmp_o_1__div_A__content_o_1__img_o_2"
                                 wId="mnre1053_1__cmp_o_1__div_A__content_o_1__img_o_2">
                            <Illustratie naam="media/image2.png"
@@ -2969,7 +2951,7 @@
                                         uitlijning="start"/>
                            <Bijschrift locatie="boven">Figuur B. Topografische ondergrond: © De auteursrechten en databankrechten zijn voorbehouden aan de Topografische Dienst Kadaster, Emmen, 2008</Bijschrift>
                         </Figuur>
-                        <Al/>
+                        
                         <Figuur eId="cmp_o_1__div_A__content_o_1__img_o_3"
                                 wId="mnre1053_1__cmp_o_1__div_A__content_o_1__img_o_3">
                            <Illustratie naam="media/image3.png"
@@ -2980,32 +2962,7 @@
                                         uitlijning="start"/>
                            <Bijschrift locatie="onder"> Figuur C. Topografische ondergrond: © De auteursrechten en databankrechten zijn voorbehouden aan de Topografische Dienst Kadaster, Emmen, 2008</Bijschrift>
                         </Figuur>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
                         <Al>Verstorende code hieronder</Al>
-                        <Al> </Al>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
-                        <Al/>
                      </Inhoud>
                   </Divisietekst>
                </Divisie>
@@ -3037,10 +2994,10 @@
             <overheidsdomein>/tooi/def/concept/c_67671688</overheidsdomein>
          </overheidsdomeinen>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_a81687f1</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
-            <rechtsgebied>geen</rechtsgebied>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
          </rechtsgebieden>
       </RegelingMetadata>
    </RegelingVersieInformatie>

@@ -56,16 +56,4 @@
 		<bestandsnaam>owRegeltekst-Natura-2000.xml</bestandsnaam>
 		<contentType>application/xml</contentType>
 	</bestand>
-	<bestand>
-		<bestandsnaam>image1.jpeg</bestandsnaam>
-		<contentType>image/jpeg</contentType>
-	</bestand>
-	<bestand>
-		<bestandsnaam>image2.jpeg</bestandsnaam>
-		<contentType>image/jpeg</contentType>
-	</bestand>
-	<bestand>
-		<bestandsnaam>image3.jpeg</bestandsnaam>
-		<contentType>image/jpeg</contentType>
-	</bestand>
 </manifest>

@@ -2930,6 +2930,38 @@
                   <Divisietekst eId="cmp_o_1__div_A__content_o_1"
                                 wId="mnre1153_1__cmp_o_1__div_A__content_o_1">
                      <Inhoud>
+                        <Figuur eId="cmp_o_1__div_A__content_o_1__img_o_1"
+                                wId="mnre1153_1__cmp_o_1__div_A__content_o_1__img_o_1">
+                           <Illustratie naam="image1.jpeg"
+                                        formaat="image/jpeg"
+                                        breedte="7937"
+                                        hoogte="4558"
+                                        dpi="72"
+                                        uitlijning="start"/>
+                           <Bijschrift locatie="boven">Figuur A. Topografische ondergrond: © De auteursrechten en databankrechten zijn voorbehouden aan de Topografische Dienst Kadaster, Emmen, 2008</Bijschrift>
+                        </Figuur>
+                        
+                        <Figuur eId="cmp_o_1__div_A__content_o_1__img_o_2"
+                                wId="mnre1153_1__cmp_o_1__div_A__content_o_1__img_o_2">
+                           <Illustratie naam="image2.jpeg"
+                                        formaat="image/jpeg"
+                                        breedte="7937"
+                                        hoogte="4751"
+                                        dpi="72"
+                                        uitlijning="start"/>
+                           <Bijschrift locatie="boven">Figuur B. Topografische ondergrond: © De auteursrechten en databankrechten zijn voorbehouden aan de Topografische Dienst Kadaster, Emmen, 2008</Bijschrift>
+                        </Figuur>
+                        
+                        <Figuur eId="cmp_o_1__div_A__content_o_1__img_o_3"
+                                wId="mnre1153_1__cmp_o_1__div_A__content_o_1__img_o_3">
+                           <Illustratie naam="image3.jpeg"
+                                        formaat="image/jpeg"
+                                        breedte="7937"
+                                        hoogte="4450"
+                                        dpi="72"
+                                        uitlijning="start"/>
+                           <Bijschrift locatie="onder"> Figuur C. Topografische ondergrond: © De auteursrechten en databankrechten zijn voorbehouden aan de Topografische Dienst Kadaster, Emmen, 2008</Bijschrift>
+                        </Figuur>
                         <Al>Verstorende code hieronder</Al>
                      </Inhoud>
                   </Divisietekst>

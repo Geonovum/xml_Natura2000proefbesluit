@@ -23,7 +23,7 @@
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
-         	<r:Regeltekst wId="mnre1153_1__chp_Besluit__art_1__para_1">
+         	<r:Regeltekst wId="mnre1153_1__art_1__para_1">
                <r:identificatie>nl.imow-mnre1153.regeltekst.2019000001</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -47,7 +47,7 @@
       </sl:stand>
    	<sl:stand>
    		<ow-dc:owObject>
-   			<r:Regeltekst wId="mnre1153_1__chp_Besluit__art_o_2__para_1">
+   			<r:Regeltekst wId="mnre1153_1__art_o_2__para_1">
    				<r:identificatie>nl.imow-mnre1153.regeltekst.2019000002</r:identificatie>
    			</r:Regeltekst>
    		</ow-dc:owObject>
@@ -71,7 +71,7 @@
    	</sl:stand>
    	<sl:stand>
    		<ow-dc:owObject>
-   			<r:Regeltekst wId="mnre1153_1__chp_Besluit__art_o_3__para_2">
+   			<r:Regeltekst wId="mnre1153_1__art_o_3__para_2">
    				<r:identificatie>nl.imow-mnre1153.regeltekst.2019000003</r:identificatie>
    			</r:Regeltekst>
    		</ow-dc:owObject>

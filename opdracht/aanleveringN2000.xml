@@ -2964,7 +2964,8 @@
          <versienummer>1</versienummer>
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <soortRegeling>/join/id/stop/regelingtype_002</soortRegeling>
+         <soortRegeling>/join/id/stop/regelingtype_012</soortRegeling> <!--Aanwijzingsbesluit N2000-->
+         <!--als je nu wil aanleveren gebruik dan: /join/id/stop/regelingtype_002 AMvB--> 
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1153</maker>
          <officieleTitel>Aanwijzingsbesluit Natura 2000-gebied Noordzeekustzone</officieleTitel>

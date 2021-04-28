@@ -24,12 +24,12 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-            	<ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2020000001</ga:identificatie>
+            	<ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2021000001</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
             	<ga:naam>Noordzeekustzone–habitatrichtlijngebied</ga:naam>
             	<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Habitatrichtlijngebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1153.gebiedengroep.2020000001"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1153.gebiedengroep.2021000001"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -37,12 +37,12 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-            	<ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2020000002</ga:identificatie>
+            	<ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2021000002</ga:identificatie>
             	<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
             	<ga:naam>Noordzeekustzone–vogelrichtlijngebied</ga:naam>
             	<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Vogelrichtlijngebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1153.gebiedengroep.2020000002"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1153.gebiedengroep.2021000002"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -50,12 +50,12 @@
    	<sl:stand>
    		<ow-dc:owObject>
    			<ga:Gebiedsaanwijzing>
-   				<ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2020000003</ga:identificatie>
+   				<ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2021000003</ga:identificatie>
    				<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
    				<ga:naam>Natura2000-gebied-Noordzeekustzone</ga:naam>
    				<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Natura2000Gebied</ga:groep>
    				<ga:locatieaanduiding>
-   				   <l:LocatieRef xlink:href="nl.imow-mnre1153.gebiedengroep.2020000003"/>
+   				   <l:LocatieRef xlink:href="nl.imow-mnre1153.gebiedengroep.2021000003"/>
    				</ga:locatieaanduiding>
    			</ga:Gebiedsaanwijzing>
    		</ow-dc:owObject>

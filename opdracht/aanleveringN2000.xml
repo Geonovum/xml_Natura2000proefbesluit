@@ -500,7 +500,7 @@
                           wId="mnre1153_1__art_o_3__para_2">
                         <LidNummer>2.</LidNummer>
                         <Inhoud>
-                        	<Al>De in de artikelen 1 en 2 genoemde speciale beschermingszones vormen samen het Natura 2000-gebied Noordzeekustzone<IntIoRef eId="art_o_3__para_2__ref_o_1" wId="mnre1153_1__art_o_3__para_2__ref_o_2" ref="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1" >Natura2000-gebied-Noordzeekustzone</IntIoRef>, waarvan de instandhoudingsdoelstelling in de zin van artikel 10a, tweede lid, van de Natuurbeschermingswet 1998 is opgenomen in de Nota van toelichting.</Al>
+                        	<Al>De in de artikelen 1 en 2 genoemde speciale beschermingszones vormen samen het <IntIoRef eId="art_o_3__para_2__ref_o_1" wId="mnre1153_1__art_o_3__para_2__ref_o_2" ref="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1" >Natura2000-gebied-Noordzeekustzone</IntIoRef>, waarvan de instandhoudingsdoelstelling in de zin van artikel 10a, tweede lid, van de Natuurbeschermingswet 1998 is opgenomen in de Nota van toelichting.</Al>
                         </Inhoud>
                      </Lid>
                   </Artikel>
@@ -581,7 +581,7 @@
                               uitlijning="start"/>
                            <Bijschrift locatie="onder"> Figuur C. Topografische ondergrond: © De auteursrechten en databankrechten zijn voorbehouden aan de Topografische Dienst Kadaster, Emmen, 2008</Bijschrift>
                         </Figuur>
-                        <Al>Verstorende code hieronder</Al>
+                        <!--<Al>Verstorende code hieronder</Al>-->
                      </Inhoud>
                   </Divisietekst>
             </Bijlage>

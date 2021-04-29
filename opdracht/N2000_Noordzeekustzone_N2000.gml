@@ -17,7 +17,7 @@
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
          <geo:FRBRWork>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-02</geo:FRBRExpression>
+         <geo:FRBRExpression>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-03</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>Noordzeekustzone</geo:naam>

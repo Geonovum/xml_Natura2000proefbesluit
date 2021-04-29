@@ -5,8 +5,8 @@
                     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/bill/mnre1153/2021/N2000-002</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/mnre1153/2021/N2000-002/nld@2021-04-06;1</FRBRExpression>
+         <FRBRWork>/akn/nl/bill/mnre1153/2021/N2000-003</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/mnre1153/2021/N2000-003/nld@2021-04-06;1</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -28,9 +28,9 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
       	<informatieobjectRefs>
-      		<informatieobjectRef>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-02</informatieobjectRef>
-      		<informatieobjectRef>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-02</informatieobjectRef>
-      		<informatieobjectRef>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-02</informatieobjectRef>
+      		<informatieobjectRef>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-03</informatieobjectRef>
+      		<informatieobjectRef>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-03</informatieobjectRef>
+      		<informatieobjectRef>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-03</informatieobjectRef>
       		<!-- regelinggebied -->
       	</informatieobjectRefs>
       </BesluitMetadata>
@@ -58,28 +58,28 @@
          		<doelen>
          			<doel>/join/id/proces/mnre1153/2021/Instelling2</doel>
          		</doelen>
-         		<instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-02</instrumentVersie>
+         		<instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-03</instrumentVersie>
          		<eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
          	</BeoogdInformatieobject>
          	<BeoogdInformatieobject>
          		<doelen>
          			<doel>/join/id/proces/mnre1153/2021/Instelling2</doel>
          		</doelen>
-         		<instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-02</instrumentVersie>
+         		<instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-03</instrumentVersie>
          		<eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
          	</BeoogdInformatieobject>
          	<BeoogdInformatieobject>
          		<doelen>
          			<doel>/join/id/proces/mnre1153/2021/Instelling2</doel>
          		</doelen>
-         		<instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-02</instrumentVersie>
+         		<instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-03</instrumentVersie>
          		<eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
          	</BeoogdInformatieobject>
             <BeoogdeRegeling>
                <doelen>
                   <doel>/join/id/proces/mnre1153/2021/Instelling2</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1153/2021/N2000-002/nld@2021-04-06;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1153/2021/N2000-003/nld@2021-04-06;1</instrumentVersie>
                <eId>formula_1</eId>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
@@ -101,7 +101,7 @@
          Dit besluit treedt in werking per 28 maart 2021.</Al>
          </Aanhef>
          <RegelingKlassiek componentnaam="initieel_reg"
-                           wordt="/akn/nl/act/mnre1153/2021/N2000-002/nld@2021-04-06;1">
+                           wordt="/akn/nl/act/mnre1153/2021/N2000-003/nld@2021-04-06;1">
             <RegelingOpschrift eId="longTitle_inst2" wId="longTitle_inst2">
                <Al>Aanwijzingsbesluit Natura 2000-gebied Noordzeekustzone</Al>
             </RegelingOpschrift>
@@ -518,7 +518,7 @@
                            <Term>Noordzeekustzone–habitatrichtlijngebied</Term>
                            <Definitie>
                               <Al>
-                                 <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1" wId="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-02" >/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-02</ExtIoRef>
+                                 <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1" wId="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-03" >/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-03</ExtIoRef>
                               </Al>
                            </Definitie>
                         </Begrip>
@@ -526,7 +526,7 @@
                            <Term>Noordzeekustzone–vogelrichtlijngebied</Term>
                            <Definitie>
                               <Al>
-                                 <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1" wId="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-02" >/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-02</ExtIoRef>
+                                 <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1" wId="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-03" >/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-03</ExtIoRef>
                               </Al>
                            </Definitie>
                         </Begrip>
@@ -534,7 +534,7 @@
                            <Term>Natura2000-gebied-Noordzeekustzone</Term>
                            <Definitie>
                               <Al>
-                                 <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1" wId="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-02" >/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-02</ExtIoRef>
+                                 <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1" wId="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-03" >/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-03</ExtIoRef>
                               </Al>
                            </Definitie>
                         </Begrip>
@@ -2956,8 +2956,8 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1153/2021/N2000-002</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1153/2021/N2000-002/nld@2021-04-06;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1153/2021/N2000-003</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1153/2021/N2000-003/nld@2021-04-06;1</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">

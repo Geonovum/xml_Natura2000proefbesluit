@@ -56,28 +56,28 @@
          <BeoogdeRegelgeving>
          	<BeoogdInformatieobject>
          		<doelen>
-         			<doel>/join/id/proces/mnre1153/2021/Instelling2</doel>
+         			<doel>/join/id/proces/mnre1153/2021/Instelling3</doel>
          		</doelen>
          		<instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-03</instrumentVersie>
          		<eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
          	</BeoogdInformatieobject>
          	<BeoogdInformatieobject>
          		<doelen>
-         			<doel>/join/id/proces/mnre1153/2021/Instelling2</doel>
+         			<doel>/join/id/proces/mnre1153/2021/Instelling3</doel>
          		</doelen>
          		<instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-03</instrumentVersie>
          		<eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
          	</BeoogdInformatieobject>
          	<BeoogdInformatieobject>
          		<doelen>
-         			<doel>/join/id/proces/mnre1153/2021/Instelling2</doel>
+         			<doel>/join/id/proces/mnre1153/2021/Instelling3</doel>
          		</doelen>
          		<instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-03</instrumentVersie>
          		<eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
          	</BeoogdInformatieobject>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/mnre1153/2021/Instelling2</doel>
+                  <doel>/join/id/proces/mnre1153/2021/Instelling3</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/mnre1153/2021/N2000-003/nld@2021-04-06;1</instrumentVersie>
                <eId>formula_1</eId>
@@ -85,9 +85,9 @@
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/mnre1153/2021/Instelling2</doel>
+               <doel>/join/id/proces/mnre1153/2021/Instelling3</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2021-04-06</datum>
+               <datum>2021-04-30</datum>
                <eId>formula_1</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -525,7 +525,7 @@
                         <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_2" wId="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_2">
                            <Term>Noordzeekustzone–vogelrichtlijngebied</Term>
                            <Definitie>
-                              <Al>
+                              <Al>https://geonovum.github.io/TPOD/CIMOW/IMOW%20v1.0.3.pdf
                                  <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1" wId="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-03" >/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-03</ExtIoRef>
                               </Al>
                            </Definitie>
@@ -2964,7 +2964,7 @@
          <versienummer>1</versienummer>
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <soortRegeling>/join/id/stop/regelingtype_012</soortRegeling> <!--Aanwijzingsbesluit N2000-->
+         <soortRegeling>/join/id/stop/regelingtype_002</soortRegeling> <!--Aanwijzingsbesluit N2000 zou eigenlijk moeten zijn /join/id/stop/regelingtype_012-->
          <!--als je nu wil aanleveren gebruik dan: /join/id/stop/regelingtype_002 AMvB--> 
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1153</maker>

@@ -17,6 +17,10 @@
 		<contentType>application/xml</contentType>
 	</bestand>
 	<bestand>
+		<bestandsnaam>IO-Reactienota.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
+	<bestand>
 		<bestandsnaam>manifest.xml</bestandsnaam>
 		<contentType>application/xml</contentType>
 	</bestand>
@@ -67,5 +71,9 @@
 	<bestand>
 		<bestandsnaam>image3.jpeg</bestandsnaam>
 		<contentType>image/jpeg</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>Reactienota bij het aanwijzingsbesluit Noordzeekustzone.pdf</bestandsnaam>
+		<contentType>application/pdf</contentType>
 	</bestand>
 </manifest>

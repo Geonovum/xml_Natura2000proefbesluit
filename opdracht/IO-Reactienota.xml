@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject schemaversie="1.0.4"
+   xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/pubdata/mnre1153/2021/Reactienota</FRBRWork>
+         <FRBRExpression>/join/id/pubdata/mnre1153/2021/Reactienota/nld@2021-10-03</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Reactienota bij het aanwijzingsbesluit Noordzeekustzone.pdf</bestandsnaam>
+                  <hash>93993d4d1abfd41cbf6345da4a96d7b506627c5b82c4ecda74ebd93d72e6fbb1f9131e6e05c5931cc4cb0e78d0d83350efb282e49fd930cf98fe0b9b6e4d85df</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <maker>/tooi/id/ministerie/mnre1153</maker>
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
+         <alternatieveTitels>
+            <alternatieveTitel>Reactienota aanwijzingsbesluit</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/pubdata/mnre1153/2021/Reactienota</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/doc_001</formaatInformatieobject>
+         <naamInformatieObject>Reactienota</naamInformatieObject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>

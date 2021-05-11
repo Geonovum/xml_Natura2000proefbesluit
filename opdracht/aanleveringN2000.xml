@@ -31,6 +31,7 @@
       		<informatieobjectRef>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat/nld@2021-10-03</informatieobjectRef>
       		<informatieobjectRef>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-03</informatieobjectRef>
       		<informatieobjectRef>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-03</informatieobjectRef>
+      	   <informatieobjectRef>/join/id/pubdata/mnre1153/2021/Reactienota/nld@2021-10-03</informatieobjectRef>
       		<!-- regelinggebied -->
       	</informatieobjectRefs>
       </BesluitMetadata>
@@ -75,6 +76,13 @@
          		<instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-03</instrumentVersie>
          		<eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
          	</BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1153/2021/Instelling3</doel>
+               </doelen>
+               <instrumentVersie>/join/id/pubdata/mnre1153/2021/Reactienota/nld@2021-10-03</instrumentVersie>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
+            </BeoogdInformatieobject>
             <BeoogdeRegeling>
                <doelen>
                   <doel>/join/id/proces/mnre1153/2021/Instelling3</doel>

@@ -533,7 +533,7 @@
                         <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_2" wId="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_2">
                            <Term>Noordzeekustzone–vogelrichtlijngebied</Term>
                            <Definitie>
-                              <Al>https://geonovum.github.io/TPOD/CIMOW/IMOW%20v1.0.3.pdf
+                              <Al>
                                  <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1" wId="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-03" >/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_vogel/nld@2021-10-03</ExtIoRef>
                               </Al>
                            </Definitie>

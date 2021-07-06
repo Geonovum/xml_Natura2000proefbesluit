@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
 	xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	schemaversie="1.0.4"
-	xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+	schemaversie="1.1.0"
+	xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
 	<InformatieObjectVersie>
 		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
 			<FRBRWork>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_habitat</FRBRWork>
@@ -16,7 +16,7 @@
 				<heeftBestand>
 					<Bestand>
 						<bestandsnaam>N2000_Noordzeekustzone_habitat.gml</bestandsnaam>
-						<hash>d16d9e3c9ff74407dce4310da8ee63e82f41646f9214f22d2a8dfcd99386da0162c52099e12594faa9b337dd162de7ffacabbb5dbf57170b0e101f9e5ac570e5</hash>
+						<hash>374ad80d8f6a80a8914ba80cba0ca8c3b2afc07811aa683e79acb438091735a28232ee5091f28c12f2a1aed5a741e2cbb8439efedc1a97332451ed0b3d5c5a71</hash>
 					</Bestand>
 				</heeftBestand>
 			</heeftBestanden>

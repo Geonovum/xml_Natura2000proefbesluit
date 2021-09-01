@@ -85,7 +85,7 @@
                   <doel>/join/id/proces/mnre1153/2021/Instelling3</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/mnre1153/2021/N2000-003/nld@2021-04-06;1</instrumentVersie>
-               <eId>formula_1</eId>
+               <eId>!initieel_reg#art_o_4</eId>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -93,7 +93,7 @@
                <doel>/join/id/proces/mnre1153/2021/Instelling3</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2021-04-30</datum>
-               <eId>formula_1</eId>
+               <eId>!initieel_reg#art_o_4</eId>
             </Tijdstempel>
          </Tijdstempels>
       </ConsolidatieInformatie>
@@ -101,9 +101,6 @@
          <RegelingOpschrift eId="longTitle" wId="longTitle">
             <Al>Proefbesluit aanwijzing Natura 2000-gebied Noordzeekustzone</Al>
          </RegelingOpschrift>
-         <Aanhef eId="formula_1" wId="formula_1">
-            <Al>Dit is een <IntRef ref="longTitle_inst2">aanwijzingsbesluit Natura2000</IntRef> Dit besluit treedt in werking per 28 maart 2021.</Al>
-         </Aanhef>
          <RegelingKlassiek componentnaam="initieel_reg" wordt="/akn/nl/act/mnre1153/2021/N2000-003/nld@2021-04-06;1">
             <RegelingOpschrift eId="longTitle_inst2" wId="longTitle_inst2">
                <Al>Aanwijzingsbesluit Natura 2000-gebied Noordzeekustzone</Al>
@@ -113,8 +110,9 @@
                <Al>Onderstaand is de situatie weergegeven zoals die bestaat volgens het besluit/de besluiten van de Minister van Landbouw en Visserij van:</Al>
                <Al>&lt;datum&gt;, &lt;nummer&gt;, zoals bekendgemaakt in &lt;stcrtnr&gt;.</Al>
 
-               <Al>De geconsolideerde inhoud is met zorg samengesteld en dient hier om de informatievoorziening in het Digitaal Stelsel Omgevingswet zo volledig mogelijk te maken. </Al>
-               <Al>De informatie is een zo goed mogelijke inhoudelijke weergave van de juridisch geldende tekst op grond van de genoemde besluiten, maar komt daar niet voor in de plaats</Al>
+               <Al>De geconsolideerde inhoud is met zorg samengesteld en dient hier om de informatievoorziening in het Digitaal Stelsel Omgevingswet zo volledig mogelijk te maken.</Al>
+               <Al>De onderstaande informatie vervangt niet de juridische geldigheid van de genoemde besluiten.</Al>
+               <Al>De artikelen 3 en 4 zijn hier slechts opgenomen om geen elementen uit de formele besluiten weg te laten.</Al>
             </Aanhef>
             <Lichaam eId="body" wId="body">
                <Artikel eId="art_1" wId="mnre1153_1__art_1">
@@ -476,6 +474,15 @@
                         <Al>De in de artikelen 1 en 2 genoemde speciale beschermingszones vormen samen het <IntIoRef eId="art_o_3__para_2__ref_o_1" wId="mnre1153_1__art_o_3__para_2__ref_o_2" ref="mnre1153_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1">Natura2000-gebied-Noordzeekustzone</IntIoRef>, waarvan de instandhoudingsdoelstelling in de zin van artikel 10a, tweede lid, van de Natuurbeschermingswet 1998 is opgenomen in de Nota van toelichting.</Al>
                      </Inhoud>
                   </Lid>
+               </Artikel>
+               <Artikel eId="art_o_4" wId="mnre1153_1__art_o_4">
+                  <Kop>
+                     <Label>Artikel</Label>
+                     <Nummer>4</Nummer>
+                     <Opschrift/>
+                  </Kop>
+                  <Inhoud><Al>Dit is een <IntRef ref="longTitle_inst2">aanwijzingsbesluit Natura2000</IntRef> Dit besluit treedt in werking per 28 maart 2021.</Al>
+                  </Inhoud>
                </Artikel>
             </Lichaam>
             <Bijlage wId="mnre1153_1__cmp_o_1" eId="cmp_o_1">

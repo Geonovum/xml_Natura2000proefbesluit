@@ -78,7 +78,7 @@
                   <doel>/join/id/proces/mnre1153/2021/Instelling3</doel>
                </doelen>
                <instrumentVersie>/join/id/pubdata/mnre1153/2021/Reactienota/nld@2021-10-03</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
+               <eId>!initieel_reg#cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdeRegeling>
                <doelen>
@@ -515,7 +515,7 @@
                   </Inhoud>
                </Divisietekst>
             </Bijlage>
-            <Bijlage>
+            <Bijlage wId="mnre1153_1__cmp_o_2" eId="cmp_o_2">
                <Kop>
                   <Label>Bijlage</Label>
                   <Nummer>II</Nummer>

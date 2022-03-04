@@ -12,9 +12,9 @@
                  xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
                  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
-   	<sl:dataset>Natura 2000 proefbesluit</sl:dataset>
+      <sl:dataset>Natura 2000 proefbesluit</sl:dataset>
       <sl:inhoud>
-      	<sl:gebied>Natura 2000</sl:gebied>
+         <sl:gebied>Natura 2000</sl:gebied>
          <sl:leveringsId>abc-20190221-0801</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
@@ -36,9 +36,9 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-mnre1153.gebied.2021000001</l:identificatie>
-            	<l:noemer>Noordzeekustzone–habitatrichtlijngebied</l:noemer>
+               <l:noemer>Noordzeekustzone–habitatrichtlijngebied</l:noemer>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="fb878e86-6781-4154-a1b2-dfaa9cb8fbcd"/>
+                  <l:GeometrieRef xlink:href="fb878e86-6781-4154-a1b2-dfaa9cb8fbcd"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -58,16 +58,16 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-mnre1153.gebied.2021000002</l:identificatie>
-            	<l:noemer>Noordzeekustzone–vogelrichtlijngebied</l:noemer>
+               <l:noemer>Noordzeekustzone–vogelrichtlijngebied</l:noemer>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="fb878e86-6781-4154-a1b2-dfaa9cb9fbcd"/>
+                  <l:GeometrieRef xlink:href="fb878e86-6781-4154-a1b2-dfaa9cb9fbcd"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <l:Gebiedengroep>   
+            <l:Gebiedengroep>
                <l:identificatie>nl.imow-mnre1153.gebiedengroep.2021000003</l:identificatie>
                <l:noemer>Natura2000-gebied-Noordzeekustzone</l:noemer>
                <l:groepselement>
@@ -80,14 +80,14 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-mnre1153.gebied.2021000003</l:identificatie>
-            	<l:noemer>Natura2000-gebied-Noordzeekustzone</l:noemer>
+               <l:noemer>Natura2000-gebied-Noordzeekustzone</l:noemer>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="fb978e86-6781-4154-a1b2-dfaa9cb8fbcc"/>
+                  <l:GeometrieRef xlink:href="fb978e86-6781-4154-a1b2-dfaa9cb8fbcc"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-<!--      <sl:stand>
+      <!--      <sl:stand>
          <ow-dc:owObject>
             <l:Ambtsgebied>
                <l:identificatie>LND6030.A</l:identificatie>

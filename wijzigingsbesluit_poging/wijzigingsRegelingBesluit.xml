@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/mnre1153/2021/N2000-004</FRBRWork>
@@ -10,7 +13,7 @@
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1153</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
-         <officieleTitel>Proefbesluit aanwijzing Natura 2000-gebied Noordzeekustzone</officieleTitel>
+         <officieleTitel>Besluit tot muteren van aanwijzing Natura 2000-gebied Noordzeekustzone</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
                <citeertitel>Natura 2000 proefbesluit</citeertitel>
@@ -49,21 +52,21 @@
                   <doel>/join/id/proces/mnre1153/2021/RegelingKlassiek</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Cirkel/nld@2021-10-03</instrumentVersie>
-               <eId>!main#cmp_I__content_1__list_1__item_1__ref_o_1</eId>
+               <eId>!main#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdeRegeling>
                <doelen>
                   <doel>/join/id/proces/mnre1153/2021/RegelingKlassiek</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/mnre1153/2021/WijzigingsRegelingN2000-1/nld@2021-12-01</instrumentVersie>
-               <eId>!main#art_II</eId>
+               <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdeRegeling>
                <doelen>
                   <doel>/join/id/proces/mnre1153/2021/WijzigenAndereRegeling</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947/nld@2022-02-23;1</instrumentVersie>
-               <eId>!main#art_II</eId>
+               <eId>art_I</eId>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -85,23 +88,25 @@
          <RegelingOpschrift eId="longTitle" wId="longTitle">
             <Al>Besluit tot muteren van aanwijzing Natura 2000-gebied Noordzeekustzone</Al>
          </RegelingOpschrift>
-         <RegelingKlassiek componentnaam="main" wordt="/akn/nl/act/mnre1153/2021/WijzigingsRegelingN2000-1/nld@2021-12-01">
-            <RegelingOpschrift wId="longTitle_o_1" eId="longTitle_o_1">
+         <RegelingKlassiek componentnaam="main"
+                           wordt="/akn/nl/act/mnre1153/2021/WijzigingsRegelingN2000-1/nld@2021-12-01">
+            <RegelingOpschrift eId="longTitle_inst2" wId="longTitle_inst2">
                <Al>Wijzigingsregeling die de initiele andere regeling wijzigt</Al>
             </RegelingOpschrift>
-            <Lichaam wId="body" eId="body">
-               <WijzigArtikel eId="art_I" wId="mnre1153_1__art_I">
+            <Lichaam eId="body" wId="body">
+               <WijzigArtikel eId="art_I" wId="mnre1153_2__art_I">
                   <Kop>
                      <Label>Artikel</Label>
                      <Nummer>I</Nummer>
                   </Kop>
                   <Wat>De testregeling wordt als volgt gewijzigd:</Wat>
-                  <RegelingMutatie xmlns="https://standaarden.overheid.nl/stop/imop/tekst/" was="/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947/nld@2021-04-06;1" wordt="/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947/nld@2022-02-23;1" 
-                     componentnaam="regelingversie2">
+                  <RegelingMutatie was="/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947/nld@2021-04-06;1"
+                                   wordt="/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947/nld@2022-02-23;1"
+                                   componentnaam="regelingversie2">
                      <Vervang wat="mnre1153_1__chp_1__subchp_1.1__subsec_1.1.1__art_1">
                         <Nummer>A</Nummer>
                         <Wat>Artikel 1 wordt op de aangegeven wijze gewijzigd:</Wat>
-                        <Artikel wId="mnre1153_1__chp_1__subchp_1.1__subsec_1.1.1__art_1" eId="chp_1__subchp_1.1__subsec_1.1.1__art_1">
+                        <Artikel eId="art_I__art_1" wId="mnre1153_2__art_I__art_1">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1</Nummer>
@@ -113,10 +118,11 @@
                            </Inhoud>
                         </Artikel>
                      </Vervang>
-                     <VoegToe positie="volgtOp" context="mnre1153_1__chp_1__subchp_1.1__subsec_1.1.1__art_1">
+                     <VoegToe positie="volgtOp"
+                              context="mnre1153_1__chp_1__subchp_1.1__subsec_1.1.1__art_1">
                         <Nummer>B</Nummer>
                         <Wat>Na artikel 1 wordt het volgende artikel toegevoegd:</Wat>
-                        <Artikel wId="mnre1153_2__chp_1__subchp_1.1__subsec_1.1.1__art_1a" eId="chp_1__subchp_1.1__subsec_1.1.1__art_1a">
+                        <Artikel eId="art_I__art_1a" wId="mnre1153_2__art_I__art_1a">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1a</Nummer>
@@ -129,7 +135,7 @@
                      </VoegToe>
                   </RegelingMutatie>
                </WijzigArtikel>
-               <Artikel wId="mnre1153_1__art_II" eId="art_II">
+               <Artikel eId="art_II" wId="mnre1153_2__art_II">
                   <Kop>
                      <Label>Artikel</Label>
                      <Nummer>II</Nummer>
@@ -139,18 +145,23 @@
                   </Inhoud>
                </Artikel>
             </Lichaam>
-            <Bijlage wId="mnre1153_1__cmp_I" eId="cmp_I">
+            <Bijlage eId="cmp_o_1" wId="mnre1153_2__cmp_o_1">
                <Kop>
                   <Opschrift>Informatieobjecten</Opschrift>
                </Kop>
-               <Divisietekst wId="mnre1153_1__cmp_I__content_1" eId="cmp_I__content_1">
+               <Divisietekst eId="cmp_o_1__content_o_1" wId="mnre1153_2__cmp_o_1__content_o_1">
                   <Inhoud>
-                     <Begrippenlijst eId="cmp_I__content_1__list_1" wId="mnre1153_1__cmp_I__content_1__list_1">
-                        <Begrip eId="cmp_I__content_1__list_1__item_1" wId="mnre1153_1__cmp_I__content_1__list_1__item_1">
+                     <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1"
+                                     wId="mnre1153_2__cmp_o_1__content_o_1__list_o_1">
+                        <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
+                                wId="mnre1153_2__cmp_o_1__content_o_1__list_o_1__item_o_1">
                            <Term>N2000 Cirkel</Term>
                            <Definitie>
                               <Al>
-                                 <tekst:ExtIoRef xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/" wId="mnre1153_1__cmp_I__content_1__list_1__item_1__ref_o_1" eId="cmp_I__content_1__list_1__item_1__ref_o_1" ref="/join/id/regdata/mnre1153/2021/N2000_Cirkel/nld@2021-10-03">/join/id/regdata/mnre1153/2021/N2000_Cirkel/nld@2021-10-03</tekst:ExtIoRef>
+                                 <tekst:ExtIoRef xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/"
+                                                 eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                                 wId="mnre1153_2__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                                 ref="/join/id/regdata/mnre1153/2021/N2000_Cirkel/nld@2021-10-03">/join/id/regdata/mnre1153/2021/N2000_Cirkel/nld@2021-10-03</tekst:ExtIoRef>
                               </Al>
                            </Definitie>
                         </Begrip>
@@ -174,7 +185,7 @@
          <soortRegeling>/join/id/stop/regelingtype_012</soortRegeling>
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1153</maker>
-         <officieleTitel>Aanwijzingsbesluit Natura 2000-gebied Noordzeekustzone</officieleTitel>
+         <officieleTitel>Wijzigingsregeling die de initiele andere regeling wijzigt</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
                <citeertitel>Aanwijzingsbesluit Natura 2000-gebied Noordzeekustzone</citeertitel>

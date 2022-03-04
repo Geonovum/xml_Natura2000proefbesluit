@@ -13,9 +13,9 @@
                  xmlns:op="http://www.geostandaarden.nl/imow/opobject"
                  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
-   	<sl:dataset>Natura 2000 proefbesluit</sl:dataset>
+      <sl:dataset>Natura 2000 proefbesluit</sl:dataset>
       <sl:inhoud>
-      	<sl:gebied>Natura 2000</sl:gebied>
+         <sl:gebied>Natura 2000</sl:gebied>
          <sl:leveringsId>abc-20190221-0801</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Gebiedsaanwijzing</sl:objectType>
@@ -24,10 +24,10 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-            	<ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2021000001</ga:identificatie>
+               <ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2021000001</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
-            	<ga:naam>Noordzeekustzone–habitatrichtlijngebied</ga:naam>
-            	<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Habitatrichtlijngebied</ga:groep>
+               <ga:naam>Noordzeekustzone–habitatrichtlijngebied</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Habitatrichtlijngebied</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1153.gebiedengroep.2021000001"/>
                </ga:locatieaanduiding>
@@ -37,28 +37,28 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-            	<ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2021000002</ga:identificatie>
-            	<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
-            	<ga:naam>Noordzeekustzone–vogelrichtlijngebied</ga:naam>
-            	<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Vogelrichtlijngebied</ga:groep>
+               <ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2021000002</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
+               <ga:naam>Noordzeekustzone–vogelrichtlijngebied</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Vogelrichtlijngebied</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1153.gebiedengroep.2021000002"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
       </sl:stand>
-   	<sl:stand>
-   		<ow-dc:owObject>
-   			<ga:Gebiedsaanwijzing>
-   				<ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2021000003</ga:identificatie>
-   				<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
-   				<ga:naam>Natura2000-gebied-Noordzeekustzone</ga:naam>
-   				<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Natura2000Gebied</ga:groep>
-   				<ga:locatieaanduiding>
-   				   <l:LocatieRef xlink:href="nl.imow-mnre1153.gebiedengroep.2021000003"/>
-   				</ga:locatieaanduiding>
-   			</ga:Gebiedsaanwijzing>
-   		</ow-dc:owObject>
-   	</sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1153.gebiedsaanwijzing.2021000003</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
+               <ga:naam>Natura2000-gebied-Noordzeekustzone</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Natura2000Gebied</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1153.gebiedengroep.2021000003"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>

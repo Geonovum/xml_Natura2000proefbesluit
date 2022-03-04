@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-	xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	schemaversie="1.1.0"
-	xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
-	<InformatieObjectVersie>
-		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-			<FRBRWork>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000</FRBRWork>
-			<FRBRExpression>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-03</FRBRExpression>
-			<soortWork>/join/id/stop/work_010</soortWork>
-		</ExpressionIdentificatie>
-		<InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-			<heeftBestanden>
-				<heeftBestand>
-					<Bestand>
-						<bestandsnaam>N2000_Noordzeekustzone_N2000.gml</bestandsnaam>
-						<hash>56c2899cf77dbb7dfbf7da191195da0aa6aa866d3005385e6509df77d9712667d6d9c29c9fe97402a31b0df223dc7bc852130368bd48a2bac5f2842a7166405d</hash>
-					</Bestand>
-				</heeftBestand>
-			</heeftBestanden>
-			<heeftGeboorteregeling>/akn/nl/act/mnre1153/2021/N2000-003</heeftGeboorteregeling>
-		</InformatieObjectVersieMetadata>
-		<InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-			<eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
-			<maker>/tooi/id/ministerie/mnre1153</maker>
-			<alternatieveTitels>
-				<alternatieveTitel>Natura2000-gebied-Noordzeekustzone</alternatieveTitel>
-			</alternatieveTitels>
-			<officieleTitel>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000</officieleTitel>
-			<publicatieinstructie>TeConsolideren</publicatieinstructie>
-			<formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-			<naamInformatieObject>Natura2000-gebied-Noordzeekustzone</naamInformatieObject>
-		</InformatieObjectMetadata>
-	</InformatieObjectVersie>
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000/nld@2021-10-03</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>N2000_Noordzeekustzone_N2000.gml</bestandsnaam>
+                  <hash>a3e4dbf81e3ac2f19987c9a34f1cd0e0ad6aadca46f03130e4cf4cb29f0c605b6b86dcdc49ccce8bcfb1bd5086122312ee079c062474effbd94f5c8935c0b5f0</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+         <heeftGeboorteregeling>/akn/nl/act/mnre1153/2021/N2000-003</heeftGeboorteregeling>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1153</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Natura2000-gebied-Noordzeekustzone</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/mnre1153/2021/N2000_Noordzeekustzone_N2000</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <naamInformatieObject>Natura2000-gebied-Noordzeekustzone</naamInformatieObject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
 </AanleveringInformatieObject>
-

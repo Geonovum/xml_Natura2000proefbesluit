@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"
-	xmlns:data="https://standaarden.overheid.nl/stop/imop/data/"
-	xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-	xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/"
-	xmlns:gml="http://www.opengis.net/gml/3.2"
-	xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	schemaversie="1.1.0"
-	xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.1.0/imop-geo.xsd">
+                                     xmlns:data="https://standaarden.overheid.nl/stop/imop/data/"
+                                     xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                                     xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/"
+                                     xmlns:gml="http://www.opengis.net/gml/3.2"
+                                     xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                     schemaversie="1.3.0"
+                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.3.0/imop-geo.xsd">
    <geo:context>
       <gio:GeografischeContext>
          <gio:achtergrondVerwijzing>TOP10NL</gio:achtergrondVerwijzing>

@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-	xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	schemaversie="1.1.0"
-	xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
-	<InformatieObjectVersie>
-		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-			<FRBRWork>/join/id/regdata/mnre1153/2021/N2000_Cirkel</FRBRWork>
-			<FRBRExpression>/join/id/regdata/mnre1153/2021/N2000_Cirkel/nld@2021-10-03</FRBRExpression>
-			<soortWork>/join/id/stop/work_010</soortWork>
-		</ExpressionIdentificatie>
-		<InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-			<heeftBestanden>
-				<heeftBestand>
-					<Bestand>
-					   <bestandsnaam>N2000_Cirkel.gml</bestandsnaam>
-					   <hash>7cb211d902ee3ea3b5c599afebdc656e4902698a91230614cfb18900a2a6af29ed8c5ef6830c45a42cafc3466c3f09d11c83845f6ff1832dce15bef8ff969350</hash>
-					</Bestand>
-				</heeftBestand>
-			</heeftBestanden>
-			<heeftGeboorteregeling>/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947</heeftGeboorteregeling>
-		</InformatieObjectVersieMetadata>
-		<InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-			<eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
-			<maker>/tooi/id/ministerie/mnre1153</maker>
-			<alternatieveTitels>
-				<alternatieveTitel>Natura2000-gebied-Noordzeekustzone</alternatieveTitel>
-			</alternatieveTitels>
-			<officieleTitel>/join/id/regdata/mnre1153/2021/N2000_Cirkel</officieleTitel>
-			<publicatieinstructie>TeConsolideren</publicatieinstructie>
-			<formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-			<naamInformatieObject>Natura2000-gebied-Noordzeekustzone</naamInformatieObject>
-		</InformatieObjectMetadata>
-	</InformatieObjectVersie>
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/mnre1153/2021/N2000_Cirkel</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1153/2021/N2000_Cirkel/nld@2021-10-03</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>N2000_Cirkel.gml</bestandsnaam>
+                  <hash>af77e5da9f97daf623f48897f6ad0ba73789b40617bb9da98acb5240466c8440acf416dba0754fa522a19ca552c47d7321c04b45d9644c12b626ab08b2d92bf3</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+         <heeftGeboorteregeling>/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947</heeftGeboorteregeling>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1153</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Natura2000-gebied-Noordzeekustzone</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/mnre1153/2021/N2000_Cirkel</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <naamInformatieObject>Natura2000-gebied-Noordzeekustzone</naamInformatieObject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
 </AanleveringInformatieObject>
-

@@ -12,9 +12,9 @@
                  xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
                  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
-   	<sl:dataset>Natura 2000 proefbesluit</sl:dataset>
+      <sl:dataset>Natura 2000 proefbesluit</sl:dataset>
       <sl:inhoud>
-      	<sl:gebied>Natura 2000</sl:gebied>
+         <sl:gebied>Natura 2000</sl:gebied>
          <sl:leveringsId>abc-20190221-0801</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
@@ -37,10 +37,10 @@
             <l:Gebied>
                <l:identificatie>nl.imow-mnre1153.gebied.N2000cirkel</l:identificatie>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="fb878e86-6781-4154-a1b2-dfaa9cb8fbcd"/>
+                  <l:GeometrieRef xlink:href="fb878e86-6781-4154-a1b2-dfaa9cb8fbcd"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-    </sl:standBestand>
+   </sl:standBestand>
 </ow-dc:owBestand>

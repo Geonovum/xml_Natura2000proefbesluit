@@ -5,22 +5,22 @@
    <domein>omgevingswet</domein>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/mnre1153/2021/N2000-003</WorkIDRegeling>
-   	<DoelID>/join/id/proces/mnre1153/2021/Instelling3</DoelID>
+      <DoelID>/join/id/proces/mnre1153/2021/Instelling3</DoelID>
       <Bestand>
-      	<naam>owGebiedsaanwijzingen-Natura2000.xml</naam>
+         <naam>owGebiedsaanwijzingen-Natura2000.xml</naam>
          <objecttype>Gebiedsaanwijzing</objecttype>
       </Bestand>
       <Bestand>
-      	<naam>owLocaties-Natura2000.xml</naam>
+         <naam>owLocaties-Natura2000.xml</naam>
          <objecttype>Gebied</objecttype>
       </Bestand>
       <Bestand>
-      	<naam>owRegeltekst-Natura-2000.xml</naam>
+         <naam>owRegeltekst-Natura-2000.xml</naam>
          <objecttype>Regeltekst</objecttype>
          <objecttype>RegelVoorIedereen</objecttype>
       </Bestand>
       <Bestand>
-      	<naam>owRegelingsgebied.xml</naam>
+         <naam>owRegelingsgebied.xml</naam>
          <objecttype>Regelingsgebied</objecttype>
       </Bestand>
    </Aanlevering>

@@ -12,9 +12,9 @@
                  xmlns:k="http://www.geostandaarden.nl/imow/kaart"
                  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
-   	<sl:dataset>Natura 2000 proefbesluit</sl:dataset>
+      <sl:dataset>Natura 2000 proefbesluit</sl:dataset>
       <sl:inhoud>
-      	<sl:gebied>Natura 2000</sl:gebied>
+         <sl:gebied>Natura 2000</sl:gebied>
          <sl:leveringsId>abc-20190221-0801</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Regeltekst</sl:objectType>
@@ -23,7 +23,7 @@
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
-         	<r:Regeltekst wId="mnre1153_1__art_1__para_1">
+            <r:Regeltekst wId="mnre1153_1__art_1__para_1">
                <r:identificatie>nl.imow-mnre1153.regeltekst.2021000001lid1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -39,9 +39,9 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1153.gebied.2021000001"/>
                </r:locatieaanduiding>
-            	<r:gebiedsaanwijzing>
+               <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1153.gebiedsaanwijzing.2021000001"/>
-               </r:gebiedsaanwijzing>                   
+               </r:gebiedsaanwijzing>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -65,7 +65,7 @@
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1153.gebiedsaanwijzing.2021000001"/>
-               </r:gebiedsaanwijzing>                   
+               </r:gebiedsaanwijzing>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -89,37 +89,37 @@
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1153.gebiedsaanwijzing.2021000001"/>
-               </r:gebiedsaanwijzing>                   
+               </r:gebiedsaanwijzing>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
-   	<sl:stand>
-   		<ow-dc:owObject>
-   			<r:Regeltekst wId="mnre1153_1__art_o_2__para_1">
-   				<r:identificatie>nl.imow-mnre1153.regeltekst.2021000002lid1</r:identificatie>
-   			</r:Regeltekst>
-   		</ow-dc:owObject>
-   	</sl:stand>
-   	<sl:stand>
-   		<ow-dc:owObject>
-   			<r:RegelVoorIedereen>
-   				<r:identificatie>nl.imow-mnre1153.juridischeregel.2021000002lid1</r:identificatie>
-   				<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-   				<r:artikelOfLid>
-   					<r:RegeltekstRef xlink:href="nl.imow-mnre1153.regeltekst.2021000002lid1"/>
-   				</r:artikelOfLid>
-   				<r:locatieaanduiding>
-   					<l:LocatieRef xlink:href="nl.imow-mnre1153.gebied.2021000002"/>
-   				</r:locatieaanduiding>
-   				<r:gebiedsaanwijzing>
-   					<ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1153.gebiedsaanwijzing.2021000002"/>
-   				</r:gebiedsaanwijzing>
-   			</r:RegelVoorIedereen>
-   		</ow-dc:owObject>
-   	</sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="mnre1153_1__art_o_2__para_2">
+            <r:Regeltekst wId="mnre1153_1__art_2__para_1">
+               <r:identificatie>nl.imow-mnre1153.regeltekst.2021000002lid1</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-mnre1153.juridischeregel.2021000002lid1</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-mnre1153.regeltekst.2021000002lid1"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1153.gebied.2021000002"/>
+               </r:locatieaanduiding>
+               <r:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1153.gebiedsaanwijzing.2021000002"/>
+               </r:gebiedsaanwijzing>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="mnre1153_1__art_2__para_2">
                <r:identificatie>nl.imow-mnre1153.regeltekst.2021000002lid2</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -143,7 +143,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="mnre1153_1__art_o_2__para_3">
+            <r:Regeltekst wId="mnre1153_1__art_2__para_3">
                <r:identificatie>nl.imow-mnre1153.regeltekst.2021000002lid3</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -167,7 +167,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="mnre1153_1__art_o_3__para_1">
+            <r:Regeltekst wId="mnre1153_1__art_3__para_1">
                <r:identificatie>nl.imow-mnre1153.regeltekst.2021000003lid1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -189,29 +189,29 @@
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
-   	<sl:stand>
-   		<ow-dc:owObject>
-   			<r:Regeltekst wId="mnre1153_1__art_o_3__para_2">
-   				<r:identificatie>nl.imow-mnre1153.regeltekst.2021000003lid2</r:identificatie>
-   			</r:Regeltekst>
-   		</ow-dc:owObject>
-   	</sl:stand>
-   	<sl:stand>
-   		<ow-dc:owObject>
-   			<r:RegelVoorIedereen>
-   				<r:identificatie>nl.imow-mnre1153.juridischeregel.2021000003lid2</r:identificatie>
-   				<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-   				<r:artikelOfLid>
-   					<r:RegeltekstRef xlink:href="nl.imow-mnre1153.regeltekst.2021000003lid2"/>
-   				</r:artikelOfLid>
-   				<r:locatieaanduiding>
-   					<l:LocatieRef xlink:href="nl.imow-mnre1153.gebied.2021000003"/>
-   				</r:locatieaanduiding>
-   				<r:gebiedsaanwijzing>
-   					<ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1153.gebiedsaanwijzing.2021000003"/>
-   				</r:gebiedsaanwijzing>
-   			</r:RegelVoorIedereen>
-   		</ow-dc:owObject>
-   	</sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="mnre1153_1__art_3__para_2">
+               <r:identificatie>nl.imow-mnre1153.regeltekst.2021000003lid2</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-mnre1153.juridischeregel.2021000003lid2</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-mnre1153.regeltekst.2021000003lid2"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1153.gebied.2021000003"/>
+               </r:locatieaanduiding>
+               <r:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1153.gebiedsaanwijzing.2021000003"/>
+               </r:gebiedsaanwijzing>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>

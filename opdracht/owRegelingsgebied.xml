@@ -8,9 +8,9 @@
                  xmlns:l="http://www.geostandaarden.nl/imow/locatie"
                  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
-   	<sl:dataset>Natura 2000 proefbesluit</sl:dataset>
+      <sl:dataset>Natura 2000 proefbesluit</sl:dataset>
       <sl:inhoud>
-      	<sl:gebied>Natura 2000</sl:gebied>
+         <sl:gebied>Natura 2000</sl:gebied>
          <sl:leveringsId>abc-20190221-0801</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Regelingsgebied</sl:objectType>
@@ -19,10 +19,11 @@
       <sl:stand>
          <ow-dc:owObject><!--Met het Regelingsgebied geef je het gebied aan waar de regeling van toepassing is (in dit geval Omgevingsplan Zaltbommel)-->
             <rg:Regelingsgebied>
-            	<rg:identificatie>nl.imow-mnre1153.regelingsgebied.2021000001</rg:identificatie>
+               <rg:identificatie>nl.imow-mnre1153.regelingsgebied.2021000001</rg:identificatie>
                <rg:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1153.gebiedengroep.2021000003"/>
-               </rg:locatieaanduiding><!--<l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="LND6030.A"/> kan nog niet met ambtsgebied ivm IMOW-bug-->
+               </rg:locatieaanduiding>
+               <!--<l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="LND6030.A"/> kan nog niet met ambtsgebied ivm IMOW-bug-->
             </rg:Regelingsgebied>
          </ow-dc:owObject>
       </sl:stand>

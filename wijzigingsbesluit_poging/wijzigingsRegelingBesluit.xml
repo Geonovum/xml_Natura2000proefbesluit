@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/mnre1153/2021/N2000-004</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/mnre1153/2021/N2000-004/nld@2022-02-06;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1153</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
+         <officieleTitel>Proefbesluit aanwijzing Natura 2000-gebied Noordzeekustzone</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Natura 2000 proefbesluit</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_a81687f1</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/mnre1153/2021/N2000_Cirkel/nld@2021-10-03</informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2021-03-19</bekendOp>
+         <ontvangenOp>2021-03-11</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2021-03-19</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2021-03-19</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1153/2021/RegelingKlassiek</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1153/2021/N2000_Cirkel/nld@2021-10-03</instrumentVersie>
+               <eId>!main#cmp_I__content_1__list_1__item_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/mnre1153/2021/RegelingKlassiek</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/mnre1153/2021/WijzigingsRegelingN2000-1/nld@2021-12-01</instrumentVersie>
+               <eId>!main#art_II</eId>
+            </BeoogdeRegeling>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/mnre1153/2021/WijzigenAndereRegeling</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947/nld@2022-02-23;1</instrumentVersie>
+               <eId>!main#art_II</eId>
+            </BeoogdeRegeling>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/mnre1153/2021/RegelingKlassiek</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2021-05-30</datum>
+               <eId>!main#art_II</eId>
+            </Tijdstempel>
+            <Tijdstempel>
+               <doel>/join/id/proces/mnre1153/2021/WijzigenAndereRegeling</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2021-05-30</datum>
+               <eId>!regelingversie2#chp_1__subchp_1.1__subsec_1.1.1__art_1</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitKlassiek xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Besluit tot muteren van aanwijzing Natura 2000-gebied Noordzeekustzone</Al>
+         </RegelingOpschrift>
+         <RegelingKlassiek componentnaam="main" wordt="/akn/nl/act/mnre1153/2021/WijzigingsRegelingN2000-1/nld@2021-12-01">
+            <RegelingOpschrift wId="longTitle_o_1" eId="longTitle_o_1">
+               <Al>Wijzigingsregeling die de initiele andere regeling wijzigt</Al>
+            </RegelingOpschrift>
+            <Lichaam wId="body" eId="body">
+               <WijzigArtikel eId="art_I" wId="mnre1153_1__art_I">
+                  <Kop>
+                     <Label>Artikel</Label>
+                     <Nummer>I</Nummer>
+                  </Kop>
+                  <Wat>De testregeling wordt als volgt gewijzigd:</Wat>
+                  <RegelingMutatie xmlns="https://standaarden.overheid.nl/stop/imop/tekst/" was="/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947/nld@2021-04-06;1" wordt="/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947/nld@2022-02-23;1" 
+                     componentnaam="regelingversie2">
+                     <Vervang wat="mnre1153_1__chp_1__subchp_1.1__subsec_1.1.1__art_1">
+                        <Nummer>A</Nummer>
+                        <Wat>Artikel 1 wordt op de aangegeven wijze gewijzigd:</Wat>
+                        <Artikel wId="mnre1153_1__chp_1__subchp_1.1__subsec_1.1.1__art_1" eId="chp_1__subchp_1.1__subsec_1.1.1__art_1">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>1</Nummer>
+                              <Opschrift>(toepassingsbereik)</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Dit hoofdstuk is van toepassing op de aanwijzing of geometrische begrenzing van locaties voor de toepassing van de wet en de daarop berustende bepalingen.<NieuweTekst> En we hebben deze tekst hieraan toegevoegd.</NieuweTekst>
+                              </Al>
+                           </Inhoud>
+                        </Artikel>
+                     </Vervang>
+                     <VoegToe positie="volgtOp" context="mnre1153_1__chp_1__subchp_1.1__subsec_1.1.1__art_1">
+                        <Nummer>B</Nummer>
+                        <Wat>Na artikel 1 wordt het volgende artikel toegevoegd:</Wat>
+                        <Artikel wId="mnre1153_2__chp_1__subchp_1.1__subsec_1.1.1__art_1a" eId="chp_1__subchp_1.1__subsec_1.1.1__art_1a">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>1a</Nummer>
+                              <Opschrift>(toegevoegd artikel)</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Dit artikel is toegevoegd aan de initiele regeling.</Al>
+                           </Inhoud>
+                        </Artikel>
+                     </VoegToe>
+                  </RegelingMutatie>
+               </WijzigArtikel>
+               <Artikel wId="mnre1153_1__art_II" eId="art_II">
+                  <Kop>
+                     <Label>Artikel</Label>
+                     <Nummer>II</Nummer>
+                  </Kop>
+                  <Inhoud>
+                     <Al> Dit besluit treedt in werking een dag na publicatie in de staatscourant. </Al>
+                  </Inhoud>
+               </Artikel>
+            </Lichaam>
+            <Bijlage wId="mnre1153_1__cmp_I" eId="cmp_I">
+               <Kop>
+                  <Opschrift>Informatieobjecten</Opschrift>
+               </Kop>
+               <Divisietekst wId="mnre1153_1__cmp_I__content_1" eId="cmp_I__content_1">
+                  <Inhoud>
+                     <Begrippenlijst eId="cmp_I__content_1__list_1" wId="mnre1153_1__cmp_I__content_1__list_1">
+                        <Begrip eId="cmp_I__content_1__list_1__item_1" wId="mnre1153_1__cmp_I__content_1__list_1__item_1">
+                           <Term>N2000 Cirkel</Term>
+                           <Definitie>
+                              <Al>
+                                 <tekst:ExtIoRef xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/" wId="mnre1153_1__cmp_I__content_1__list_1__item_1__ref_o_1" eId="cmp_I__content_1__list_1__item_1__ref_o_1" ref="/join/id/regdata/mnre1153/2021/N2000_Cirkel/nld@2021-10-03">/join/id/regdata/mnre1153/2021/N2000_Cirkel/nld@2021-10-03</tekst:ExtIoRef>
+                              </Al>
+                           </Definitie>
+                        </Begrip>
+                     </Begrippenlijst>
+                  </Inhoud>
+               </Divisietekst>
+            </Bijlage>
+         </RegelingKlassiek>
+      </BesluitKlassiek>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1153/2021/N2000-003RGL-20210917-095947/nld@2022-02-23;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>2</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_012</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1153</maker>
+         <officieleTitel>Aanwijzingsbesluit Natura 2000-gebied Noordzeekustzone</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Aanwijzingsbesluit Natura 2000-gebied Noordzeekustzone</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_67671688</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_a81687f1</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/mnre1153/2021/WijzigingsRegelingN2000-1</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1153/2021/WijzigingsRegelingN2000-1/nld@2021-12-01</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>2</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_012</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1153</maker>
+         <officieleTitel>Wijzigingsregeling die de initiele andere regeling wijzigt</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Wijzigingsregeling die de initiele andere regeling wijzigt</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_67671688</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_a81687f1</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>

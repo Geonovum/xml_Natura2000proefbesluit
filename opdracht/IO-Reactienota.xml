@@ -19,6 +19,7 @@
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
+         <heeftGeboorteregeling>/akn/nl/bill/mnre1153/2021/N2000-003</heeftGeboorteregeling>
       </InformatieObjectVersieMetadata>
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <maker>/tooi/id/ministerie/mnre1153</maker>
